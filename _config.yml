@@ -16,7 +16,7 @@
 title: P3K Pertolongan Pertama Pada Kreativitas
 description: Panduan navigasi lapangan kreativitas yang dilengkapi dengan peralatan interaktif berupa kartu conversation starter
 baseurl: "/p3k" # the subpath of your site, e.g. /blog
-url: "https://perint1s.github.io/p3k" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://perint1s.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
