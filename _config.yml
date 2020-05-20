@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: P3K
-description: Pertolongan Pertama Pada Kreativitas: Panduan navigasi lapangan kreativitas yang dilengkapi dengan peralatan interaktif berupa kartu conversation starter
+description: Pertolongan Pertama Pada Kreativitas
 baseurl: "/p3k" # the subpath of your site, e.g. /blog
 url: "https://perint1s.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
