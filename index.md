@@ -9,79 +9,39 @@ permalink: /
 # Pertolongan Pertama Pada Kreativitas
 {: .fs-9 }
 
-P3K, Pertolongan Pertama Pada Kreativitas, adalah seperangkat toolkit untuk mengarungi berbagai tantangan lapangan kreativitas. Dilengkapi dengan peralatan interaktif berupa kartu pemancing pembicaraan (conversation starter card deck).
+Seperangkat _toolkit_ untuk mengarungi berbagai tantangan bekerja di industri kreatif. Dilengkapi dengan peralatan interaktif berupa kartu pemancing pembicaraan (conversation starter card deck).
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Unduh kartu permainan](#){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unduh PDF buku](https://github.com/PERINT1S/p3k){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## Apaan nih?
 
-### Dependencies
+Istilah “kreatif”—berkaitan dengan ekonomi kreatif, industri kreatif, _creativepreneur_ dsb.—kini begitu banyak digunakan di Indonesia dalam kehidupan dan kerja sehari-hari. Istilah “kreatif” sendiri memang bersifat sangat luwes dan memiliki daya tarik bagi banyak pihak. Kerja di ekonomi dan industri kreatif seringkali digambarkan sebagai kerja yang fleksibel, _carefree_, dan bebas; dikelilingi lingkungan dan hiburan yang fotogenik dan _instagrammable_, tanpa kekakuan kerja penuh waktu di kantor ataupun pabrik. Minat terhadap industri kreatif ini jelas tumbuh, khususnya di kalangan anak muda dan mereka yang ingin menarik animo anak muda tersebut.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+Namun di balik gambaran tersebut, ada berbagai resiko dalam industri kreatif yang seringkali tidak dibayangkan, antara lain: (1) kondisi pasar dan isu legal-administratif berkaitan dengan penerapan kebijakan, regulasi, perpajakan, perizinan, dan sebagainya; (2) kerentanan ketenagakerjaan seperti ketidakpastian kontrak kerja maupun pendapatan, dan hilangnya jaring pengaman kerja seperti pendapatan bulanan tetap dan jaminan kesehatan.
 
-### Quick start: Use as a GitHub Pages remote theme
+Sayangnya, berdasarkan penelitian yang telah dilakukan di Surabaya bekerjasama dengan Koperasi Riset Purusha, meskipun makin banyak lembaga pendidikan membuat jurusan dan fakultas industri kreatif dalam 5 tahun terakhir, mayoritas pekerja kreatif merasa tidak belajar banyak terkait hal tersebut di sekolah ataupun kampus, serta belum ada buku panduan dasar yang populer dan terjangkau mengenainya.
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
-
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+Projek ini karenanya menyediakan panduan dasar bagi mereka yang tertarik berkecimpung dalam industri kreatif, khususnya anak muda dan pengajarnya. Tanpa berpretensi menyediakan jawaban pasti, panduan ini mendorong pembacanya untuk mempertanyakan kondisi kerja serta kerentanan yang banyak dialami mereka yang berkecimpung dalam industri kreatif. Juga membayangkan--dan terpicu untuk membangun--alternatif ekosistem yang lebih manusiawi, adil, dan berkelanjutan di tengah kerentanan. Dilengkapi dengan satu set kartu untuk memancing pembicaraan dengan teman-teman pemberi maupun penerima kerja. 
 
 ---
 
-## About the project
+## Perihal projek P3K
 
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
+P3K adalah projek yang dikerjakan oleh [PERIN+1S](https://perintis.or.id) bekerjasama dengan [Domestic Science (Liverpool, UK)](https://domesticscience.org.uk/) dan [SINDIKASI](http://sindikasi.org/). Didukung oleh program [DICE (Developing Inclusive Creative Economies) dari British Council](https://www.britishcouncil.org/programmes/dice/fund). 
 
-### License
+### Kontributor
+
+Ilustrator: Nita Darsono
+Desain: Andriew Budiman
+Reviewer kartu: Ellena Ekarahendy (SINDIKASI)
+Web mmenggunakan Jekyll, layout Just the Docs &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
+
+Berminat menjadi kontributor? [Github repo](https://github.com/PERINT1S/p3k/)
+
+### Lisensi
 
 P3K dibuat dengan lisensi Creative Commons BY-NC-SA 4.0.
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+Layout Just the Docs didistribusikan dengan [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
