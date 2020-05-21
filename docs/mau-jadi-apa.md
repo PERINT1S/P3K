@@ -69,7 +69,10 @@ footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an
 ## Tenaga ahli &amp; profesional
 
 Removed dark mode button here... see if this works
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
+
+## Mitra
+
+Biasanya, dalam kemitraan, sebagai sama-sama pelaku usaha, ada **penyusunan perjanjian dan strategi bersama, dan ada pembagian hasil dari keuntungan kerja sama**. Sementara pekerja menjalankan pesanan dan mendapat bayaran setelah pekerjaan selesai. Pekerja tidak punya daya tawar yang sama untuk menegosiasikan sistem kerja. Jika kamu tidak mendapat bagi hasil, atau tidak merasa menyusun perjanjian maupun strategi bersama _mitra_-mu, bisa dikatakan bahwa kamu bukan mitra, tapi pekerja.
 
 ## Pekerja PKWT &amp; PKWTT
 
