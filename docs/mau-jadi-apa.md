@@ -73,8 +73,4 @@ See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more
 
 ## Pekerja PKWT &amp; PKWTT
 
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-```
+OK tes....
