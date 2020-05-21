@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Mau jadi apa?
-nav_order: 3
-has_children: false
-permalink: /docs/mau-jadi-apa
+nav_order: 2
+permalink: /docs/configuration
 ---
 
 # Mau jadi apa?
