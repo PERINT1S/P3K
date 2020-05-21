@@ -12,7 +12,7 @@ Laman ini memuat berbagai tips dan link untuk membantu menghadapi COVID-19. Ada 
 ## Daftar isi
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 ---
