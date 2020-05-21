@@ -68,8 +68,7 @@ footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an
 
 ## Tenaga ahli &amp; profesional
 
-Tenaga ahli adalah ..... yak coba ilangin dark scheme buttonnya....
-
+Removed dark mode button here... see if this works
 See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
 
 ## Pekerja PKWT &amp; PKWTT
