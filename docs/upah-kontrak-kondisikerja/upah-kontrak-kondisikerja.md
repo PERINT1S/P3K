@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Upah, kontrak, kondisi kerja
-nav_order: 20
+nav_order: 3
 has_children: true
 permalink: /docs/upah-kontrak-kondisikerja
 ---

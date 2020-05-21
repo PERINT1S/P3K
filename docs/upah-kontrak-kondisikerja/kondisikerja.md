@@ -5,7 +5,7 @@ parent: Upah, kontrak, kondisi kerja
 nav_order: 3
 ---
 
-# Labels
+# Kondisi kerja
 
 Use labels as a way to add an additional mark to a section of your docs. Labels come in a few colors. By default, labels will be blue.
 

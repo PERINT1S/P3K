@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Buttons
-parent: UI Components
+title: Upah
+parent: Upah, kontrak, kondisi kerja
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Code
-parent: UI Components
+title: Kontrak
+parent: Upah, kontrak, kondisi kerja
 nav_order: 6
 ---
 
