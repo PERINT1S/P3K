@@ -8,7 +8,7 @@ nav_order: 2
 {: .no_toc }
 
 
-Pertanyaan yang sungguh sering kita dengar, dan sulit dijawab. "Mau jadi apa?" Apakah aku adalah, atau mau menjadi: bos, _entrepreneur_ (apa bedanya dengan wiraswasta?), pekerja, buruh, pegawai, karyawan, mitra, tenaga ahli? Apa perbedaannya? Apa saja hak dan kewajibannya?
+Pertanyaan yang sungguh sering kita dengar, dan sulit dijawab. "Mau jadi apa?" Apa aku mau jadi bos, _entrepreneur_ (apa bedanya dengan wiraswasta?), pekerja, buruh, pegawai, karyawan, mitra, tenaga ahli? Apa perbedaannya? Apa saja hak dan kewajibannya? Aku sendiri apa?
 {: .fs-6 .fw-300 }
 
 ## Table of contents
