@@ -40,12 +40,12 @@ aux_links:
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "P3K dibuat dengan lisensi <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons BY-NC-SA 4.0</a>.<br />
-Web menggunakan Jekyll, dengan layout <a href=\"https://pmarsceill.github.io/just-the-docs/\">Just the Docs</a> &copy; 2017-2019 oleh <a href=\"http://patrickmarsceill.com\">Patrick Marsceill</a>, didistribusikan dengan <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>."
+Web menggunakan <a href=\"https://jekyllrb.com/\">Jekyll</a>, dengan layout <a href=\"https://pmarsceill.github.io/just-the-docs/\">Just the Docs</a> &copy; 2017-2019 oleh <a href=\"http://patrickmarsceill.com\">Patrick Marsceill</a>, didistribusikan dengan <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>."
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 
-# Google Analytics Tracking (optional) -- not using tracking for now
+# Google Analytics Tracking (optional) -- PERIN+1S not using tracking for now
 # e.g, UA-1234567-89
 ga_tracking:
 

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Configuration
+title: Mau jadi apa?
 nav_order: 2
 ---
 
-# Configuration
+# Mau jadi apa?
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Pertanyaan yang sungguh sering kita dengar, dan sulit dijawab. "Mau jadi apa?" Apakah aku adalah, atau mau menjadi: bos, _entrepreneur_ (apa bedanya dengan wiraswasta?), pekerja, buruh, pegawai, karyawan, mitra, tenaga ahli? Apa perbedaannya? Apa saja hak dan kewajibannya?
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -19,17 +19,14 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
-
-## Site logo
+## Entrepreneur
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
 ```
 
-## Search
+## Bos, atau pemberi kerja
 
 ```yaml
 # Enable or disable the site search
@@ -41,7 +38,7 @@ search_tokenizer_separator: /[\s/]+/
 
 ```
 
-## Aux links
+## Pekerja, atau penerima kerja
 
 ```yaml
 # Aux links for the upper right navigation
@@ -50,7 +47,7 @@ aux_links:
     - "//github.com/pmarsceill/just-the-docs"
 ```
 
-## Heading anchor links
+## Buruh
 
 ```yaml
 # Heading anchor links appear on hover over h1-h6 tags in page content
@@ -60,14 +57,14 @@ aux_links:
 heading_anchors: true
 ```
 
-## Footer content
+## Pegawai, karyawan
 
 ```yaml
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 ```
 
-## Color scheme
+## Tenaga ahli &amp; profesional
 
 ```yaml
 # Color scheme currently only supports "dark" or nil (default)
@@ -79,7 +76,7 @@ color_scheme: "dark"
 
 See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
 
-## Google Analytics
+## Pekerja PKWT &amp; PKWTT
 
 ```yaml
 # Google Analytics Tracking (optional)
