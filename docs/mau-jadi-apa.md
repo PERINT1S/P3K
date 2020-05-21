@@ -9,7 +9,7 @@ permalink: /docs/mau-jadi-apa
 # Mau jadi apa?
 {: .no_toc }
 
-Pertanyaan yang sungguh sering kita dengar, dan sulit dijawab. "Mau jadi apa?" Apa mau jadi bos, _entrepreneur_ (apa bedanya dengan wiraswasta?), pekerja, buruh, pegawai, karyawan, mitra, tenaga ahli? Apa perbedaannya? Apa saja hak dan kewajibannya? Aku sendiri apa?
+Pertanyaan yang sungguh sering kita dengar, dan sulit dijawab. "Mau jadi apa?" Apa mau jadi bos, _entrepreneur_, pekerja, buruh, pegawai, karyawan, mitra, wiraswasta, tenaga ahli? Apa sih bedanya? Apa saja hak dan kewajibannya? Aku sendiri apa?
 {: .fs-6 .fw-300 }
 
 ## Daftar pilihan
