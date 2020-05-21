@@ -2,7 +2,7 @@
 layout: default
 title: Kondisi kerja
 parent: Upah, kontrak, kondisi kerja
-nav_order: 11
+nav_order: 3
 ---
 
 # Labels
