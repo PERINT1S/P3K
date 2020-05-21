@@ -4,7 +4,7 @@ title: Tips menghadapi COVID-19
 nav_order: 7
 ---
 
-Laman ini memuat berbagai tips dan link untuk membantu menghadapi COVID-19. Ada banyak tautan, yang bisa kamu tekan sembari menekan "Ctrl" (Windows) atau "Command" (Mac) atau tekan lama di HP agar membuka di tab baru.
+Laman ini memuat berbagai tips dan tautan untuk membantu menghadapi COVID-19. Punya saran?
 {: .fs-6 .fw-300 }
 
 ## Daftar isi
@@ -15,7 +15,9 @@ Laman ini memuat berbagai tips dan link untuk membantu menghadapi COVID-19. Ada 
 
 ---
 
-# Pengaduan
+# Belajar online
+
+
 
 
 
@@ -23,9 +25,10 @@ Laman ini memuat berbagai tips dan link untuk membantu menghadapi COVID-19. Ada 
 
 
 
+
 ## Teknologi
 
-**Mozilla video call guide**
+**Mozilla video call guide**  
 Mozilla membuat [panduan aplikasi video call](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/). Panduan ini membantu kita meninjau keamanan dan privasi aplikasi yang dapat kita gunakan untuk bekerja dari jarak jauh, mengobrol dengan teman dan keluarga, atau menghubungi dokter.
 
 **Jitsi**
@@ -33,27 +36,48 @@ Mozilla membuat [panduan aplikasi video call](https://foundation.mozilla.org/en/
 open source
 {: .label .label-green }
 
-**Gived**
-Berbagai perangkat untuk kolaborasi dan penggalangan dana
-
 # Keamanan Digital
 
 [Digital Hygiene 101](https://coconet.social/digital-hygiene-safety-security/) - tersedia dalam [bahasa Indonesia](https://coconet.social/digital-hygiene-safety-security-indonesia)
 
+# Lowongan &amp; pendanaan
+
+**[Bagirata](https://bagirata.id/)**  
+Bagirata adalah _peer-to-peer wealth distribution tool_ untuk membantu kondisi finansial para pekerja yang terkena dampak ekonomi di tengah ketidakpastian pandemi COVID-19, dengan memfasilitasi proses _crowdfunding_ ke pekerja yang terdampak agar mencapai dana minimum yang dibutuhkan.
+
+**[sindikasi.bagirata.id](https://sindikasi.bagirata.id)**  
+Bekerjasama dengan Bagirata, SINDIKASI mendata dan memverifikasi calon penerima dana dari pekerja-pekerja yang melaporkan berbagai pembatalan projek dan hilangnya pemasukan yang mereka alami.
+
+**[Digital Rights Opportunities](https://coconet.social/opportunities/)**  
+Kumpulan berbagai peluang seperti lowongan kerja, peluang pendanaan (_funding_), beasisswa, dsb. untuk inisiatif hak digital di Asia Pasifik.
+
+# Pengaduan
 
 
-# Belajar online
+
+# Patungan &amp; _fundraising_
+
+**[Peduli Kawan Transpuan Surabaya](https://www.instagram.com/p/CAU_IJPFuE_/)**  
+Inisiatif yang digalang oleh Eva &amp; Anin untuk membantu kawan-kawan transpuan di Surabaya, yang sangat terdampak pandemi dan luput dari bantuan maupun perhatian. Donasi dapat disalurkan ke rekening BCA 777 1129 157 A/N Eva Bachtiar, konfirmasi transfer melalui WhatsApp ke Anin di 0896 7567 9568.
+
+**[Penggalangan dana #SalingJaga hadapi Corona oleh Rara Sekar](https://kitabisa.com/campaign/bersamakitalawan)**  
+Penggalangan dana oleh Rara Sekar melalui platform kitabisa.com. Dana akan digunakan untuk pembelian kebutuhan pokok sehari-hari,  masker, hand sanitizer, sarung tangan, dan alat perlindungan diri lainnya. Penerima manfaat dari donasi ini antara lain: masyarakat tak mampu di kota besar, buruh dan pekerja sektor informal.
+
+**[Solidaritas Tanpa Batas](https://kitabisa.com/campaign/satucara)**
+
+**[Fakultas Kedokteran Universitas Airlangga]**  
+Alumni Fakultas Kedokteran Universitas Airlangga menggalang dana untuk tenaga medis yang menangani pasien COVID-19.
+
+Donasi dapat ditransfer ke:
+- BCA 0440 816 622 A/N Inggrid Ayusari Asali.
+- Mandiri 900 001 775 5035 A/N Zahra Safithry Irawan.
+
+Barang donasi dapat dikirimkan ke Jl. Manyar Tirtoasri X/33, Surabaya, dengan menghubungi Zahra di 082165455145.
+
+**[Kumpulan inisiatif anti-COVID-19 oleh Jakarta Post](https://www.thejakartapost.com/life/2020/03/20/anti-covid-19-initiatives-helping-indonesia-fight-the-outbreak.html)**  
+Ada banyak berbagai kampanye penggalangan dana (_fundraising_) dan patungan (_crowdfunding_) yang dikumpulkan dalam satu artikel oleh _Jakarta Post_.
 
 
-
-# Peluang pendanaan &amp; lowongan
-
-**[Bagirata](https://bagirata.id/)**
-Bagirata adalah peer-to-peer wealth distribution tool untuk membantu kondisi finansial para pekerja yang terkena dampak ekonomi di tengah ketidakpastian pandemi COVID-19, dengan memfasilitasi proses crowdfunding ke pekerja yang terdampak agar mencapai dana minimum yang dibutuhkan.
-
-Bekerjasama dengan Bagirata, SINDIKASI mendata dan memverifikasi calon penerima dana dari pekerja-pekerja yang melaporkan berbagai pembatalan projek dan hilangnya pemasukan yang mereka alami. Selengkapnya dapat disimak di [sindikasi.bagirata.id](https://sindikasi.bagirata.id/)
-
-[Digital Rights Opportunities](https://coconet.social/opportunities/) dari COCONET, EngageMedia
 
 # Panduan lainnya
 
