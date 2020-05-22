@@ -4,7 +4,7 @@ title: Solidaritas & kolektif
 nav_order: 6
 ---
 
-# Tanggungan &amp; ongkos
+# Solidaritas &amp; kolektif
 {: .no_toc }
 
 

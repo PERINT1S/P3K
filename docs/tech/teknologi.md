@@ -15,18 +15,7 @@ Teknologi dapat membantu kita bekerja, belajar, hidup. Namun di sisi lain teknol
 
 ---
 
-# Belajar online
-
-
-
-
-
-# Bekerja jarak jauh
-
-
-
-
-## Teknologi
+## Aplikasi video call
 
 **Mozilla video call guide**  
 Mozilla membuat [panduan aplikasi video call](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/). Panduan ini membantu kita meninjau keamanan dan privasi aplikasi yang dapat kita gunakan untuk bekerja dari jarak jauh, mengobrol dengan teman dan keluarga, atau menghubungi dokter.
