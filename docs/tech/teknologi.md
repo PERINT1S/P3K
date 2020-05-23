@@ -5,6 +5,9 @@ nav_order: 7
 has_children: true
 ---
 
+# Teknologi
+{: .no_toc}
+
 Teknologi dapat membantu kita bekerja, belajar, hidup. Namun di sisi lain teknologi juga dapat menyulitkan.
 {: .fs-6 .fw-300 }
 

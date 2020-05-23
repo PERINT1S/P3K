@@ -7,7 +7,7 @@ nav_order: 4
 # Magang &amp; _exposure_
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Magang atau kerja tanpa bayaran menjadi realita bagi banyak pekerja, baik yang masih sekolah/kuliah atau sudah lulus. Demi "exposure", katanya. Namun magang/kerja tanpa dibayar juga mensyaratkan adanya privilese punya modal cukup untuk menyokong biaya hidup sehari-sehari.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -18,70 +18,38 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
+# Magang
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+Kerja atau magang tanpa imbalan ekonomi demi pengalaman dan "_exposure_", seringkali diwajarkan sebagai satu-satunya cara untuk membangun reputasi, "portfolio", mendapat batu loncatan di industri kreatif.
 
-## Site logo
+Namun sebenarnya, berapa lama jangka waktu magang? Gimana kalau sudah lama kerja dan menangani projek atau klien, tapi statusnya tetap dibilang magang? Apa yang didapat perusahaan, dan pekerja, dari pemagangan? Apa Undang-undang atau peraturan yang mengatur pemagangan? Butuh kontrak tidak sih untuk magang?
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+Dalam UU Ketenagakerjaan No. 13 tahun 2003, dikatakan bahwa perlu ada **perjanjian tertulis antara peserta magang dan pengusaha, yang sekurang-kurangnya memuat ketentuan perihal hak dan kewajiban peserta dan pengusaha; serta jangka waktu pemagangan**. Jika pemagangan dilakukan tanpa melalui perjanjian pemagangan, maka pemagangan tersebut dianggap tidak sah dan status pemagang sebetulnya berubah menjadi pekerja/buruh perusahaan yang bersangkutan.
 
-## Search
+Praktek magang sendiri diwajibkan di perguruan tinggi melalui program [Kuliah Kerja Nyata](https://id.wikipedia.org/wiki/Kuliah_Kerja_Nyata) (KKN). Sialnya, kampus seringkali menormalisasi magang tak berbayar, tanpa kontrak atau jaminan apapun, dengan jangka waktu berbeda-beda. Ada juga yang mengartikan bahwa ketentuan pemagangan yang diatur dalam Undang-undang [tidak mencakup KKN](https://www.hukumonline.com/klinik/detail/ulasan/lt4c6cb635d9527/ketentuan-pemagangan-agar-tak-menyalahi-uu-ketenagakerjaan) dari kampus. Artikel tersebut menyebutkan bagaimana situs LAPOR (Layanan Aspirasi dan Pengaduan Online Rakyat) juga menyebutkan bahwa untuk pemagangan yang dilakukan oleh mahasiswa:
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+> dalam rangka memenuhi persyaratan akademis yang merupakan bagian kurikulum pendidikan, maka mahasiswa yang bersangkutan tidak dapat diklasifikasikan sebagai peserta magang dalam negeri.
 
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
+Rumit. Hukum dan sistem pendidikan yang berlaku di Indonesia tampaknya banyak berpihak pada magang tak berbayar. Diskusi mengenai magang tidak dibayar ini cukup sering dibahas di luar, dan sempat [ramai di Indonesia tahun 2019](https://mojok.co/apk/ulasan/pojokan/jadi-anak-magang-dan-nggak-dibayar/) lalu.
 
-```
+> If unpaid internships are the key to better jobs and bigger salaries, should we be concerned about the millions of lower-class students who can't afford to work for free?
 
-## Aux links
+[[Negosiasikan kontrak, jam kerja.....]]
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
+## Hukum & Peraturan
 
-## Heading anchor links
+Abi Jam'an Kurnia, S.H., "Jangka Waktu dan Hak-hak Peserta Pemagangan," [_hukumonline.com_](https://www.hukumonline.com/klinik/detail/ulasan/lt50c9bc71e2237/magang/#_ftn6), 15 Maret 2019.
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false/nil
-heading_anchors: true
-```
+Letezia Tobing, S.H., M.Kn., "Ketentuan Pemagangan Agar Tak Menyalahi UU Ketenagakerjaan," [_hukumonline.com_](https://www.hukumonline.com/klinik/detail/ulasan/lt4c6cb635d9527/ketentuan-pemagangan-agar-tak-menyalahi-uu-ketenagakerjaan), 31 Mei 2017.
 
-## Footer content
+# Bacaan lanjutan
 
-```yaml
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-```
+**[PrecarityPilot](https://precaritypilot.net/)**, platform daring dengan lokakarya berpindah yang bertujuan menangani berbagai masalah kerentanan yang dihadapi desainer dengan cara inovatif. Bahasa Inggris.
 
-## Color scheme
+**[Surviving Internships](https://carrotworkers.wordpress.com/counter-internship-guide/)** oleh Carrotworker's Collective (yang kemudian menjadi [Precarious Workers' Brigade](https://precariousworkersbrigade.tumblr.com)). Booklet ini mengeksplorasi dan mempertanyakan beberapa mitos seputar karier di industri kreatif dan menyediakan beberapa alat bertahan hidup bagi mereka yang saat ini bekerja di sektor kreatif. Isi panduan ini didasarkan pada pengalaman kehidupan nyata para pekerja industri budaya dan kreatif di London. Bahasa Inggris.
 
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+https://www.psychologytoday.com/us/blog/the-science-behind-behavior/201908/why-unpaid-internships-are-unethical
 
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
+https://www.theatlantic.com/business/archive/2012/05/unpaid-internships-bad-for-students-bad-for-workers-bad-for-society/256958/
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-```
+https://www.voaindonesia.com/a/magang-tak-berbayar-menguntungkan-peserta-magang-atau-perusahaan/2874794.html
