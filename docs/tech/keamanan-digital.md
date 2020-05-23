@@ -5,7 +5,7 @@ parent: teknologi
 nav_order: 3
 ---
 
-# Color Utilities
+# Keamanan Digital
 {: .no_toc }
 
 ## Table of contents

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: COVID-19
+permalink: docs/covid19
 nav_order: 99
 ---
 
@@ -17,16 +18,16 @@ Laman ini memuat berbagai tips dan tautan untuk membantu menghadapi COVID-19.
 
 # Kesehatan mental &amp; fisik
 
-Ingat bahwa **pandemi ini memiliki dampak emosional dan fisik yang sangat besar dan berbeda-beda untuk tiap orang**. Tingkat produktivitas tidak akan sama, dan setiap orang harus beradaptasi dengan situasi, konteks, peralatan teknologi baru dengan modal dan lingkungan yang berbeda-beda.
+Ingat bahwa **pandemi ini memiliki dampak emosional dan fisik yang sangat besar dan berbeda-beda untuk tiap orang**. Tingkat produktivitas tidak akan sama, dan setiap orang harus beradaptasi dengan situasi, konteks, peralatan teknologi baru, dengan modal dan lingkungan yang berbeda-beda.
 
 **_Be kind to yourself and to others_, jangan bandingkan apa yang kamu lakukan atau performamu dengan orang lain**  
-Lebih sabar dan peduli pada diri sendiri maupun orang lain. Jangan berupaya mengkompensasi produktivitas yang menurun dengan bekerja lebih lama. Begitu pula, maklumi dan maafkan diri sendiri dan orang lain jika ada tanggungjawab atau pekerjaan yang terbengkalai--sangat wajar di tengah krisis seperti ini. Pertimbangkan keluarga, teman, kolega, klien, pekerja, tetangga yang sangat rentan.
+Lebih sabar dan peduli pada diri sendiri maupun orang lain. Jangan berupaya mengkompensasi produktivitas yang menurun dengan bekerja lebih lama. Begitu pula, maklumi dan maafkan diri sendiri dan orang lain jika ada tanggungjawab atau pekerjaan yang terbengkalai--sangat wajar di tengah krisis seperti ini. Pertimbangkan juga keluarga, teman, kolega, klien, pekerja, tetangga dengan berbagai kerentanan yang mereka hadapi.
 
 **Stres belerbihan sangat wajar terjadi di saat seperti ini**  
-Ingat bahwa pandemi ini adalah situasi luar biasa, yang dapat meluapkan perasaan, emosi, dan pikiran yang berbeda. Beri dirimu ruang untuk menerima dan merasakan pergolakan emosi--*tidak perlu memaksakan diri untuk selalu positif* karena itu bisa jadi malah membuatmu frustasi. Pertimbangkan menghubungi konsultan psikologi jika perlu. Jika kamu mengalami pembatalan projek, PHK, "dirumahkan", dan kehilangan pemasukan, ada beberapa organisasi yang menyediakan bantuan, atau menerima [aduan](#aduan-masalah) dan dapat membantumu secara hukum.
+Ingat bahwa pandemi ini adalah situasi luar biasa, yang dapat meluapkan perasaan, emosi, dan pikiran yang berbeda. Beri dirimu ruang untuk menerima dan merasakan pergolakan emosi--*tidak perlu memaksakan diri untuk selalu positif* karena itu bisa jadi malah membuatmu frustasi. Pertimbangkan menghubungi konsultan psikologi jika perlu.
 
 **Jaga pola jam tidur, pola makan &amp; kesehatan**  
-Sebisa mungkin, jaga pola jam kerja dan istirahat, serta pola makan minum yang sehat. Usahakan makan sehat beberapa jam sebelum tidur, dan berolahraga rutin--yoga banyak direkomendasikan untuk menenangkan pikiran, atau olahraga lain seperti HIIT yang dapat dilakukan sendirian dalam ruang terbatas. (Hati-hati dalam mencoba olahraga baru, pastikan olahraga tersebut tidak terlalu sulit/berat, salah-salah malah kamu harus masuk rumah sakit!) Sadari pula bahwa **banyak orang (mengalami gangguan tidur)[https://www.suara.com/tekno/2020/04/03/110000/sulit-tidur-dan-alami-mimpi-buruk-selama-pandemi-ini-penjelasan-ilmuwan] selama pandemi**. Hal yang sangat wajar di tengah krisis. Lagi-lagi, tahan diri dari menghakimi diri sendiri dan orang lain.
+Sebisa mungkin, jaga pola jam kerja dan istirahat, serta pola makan minum yang sehat. Usahakan makan sehat beberapa jam sebelum tidur, dan berolahraga rutin--yoga banyak direkomendasikan untuk menenangkan pikiran, atau olahraga lain seperti HIIT yang dapat dilakukan sendirian dalam ruang terbatas. (Hati-hati dalam mencoba olahraga baru, pastikan olahraga tersebut tidak terlalu sulit/berat, salah-salah malah kamu harus masuk rumah sakit!) Sadari pula bahwa **banyak orang [mengalami gangguan tidur](https://www.suara.com/tekno/2020/04/03/110000/sulit-tidur-dan-alami-mimpi-buruk-selama-pandemi-ini-penjelasan-ilmuwan) selama pandemi**. Hal yang sangat wajar di tengah krisis.
 
 **Bantu sesama dan sekitarmu**  
 Jika kamu beruntung mempunyai kemampuan atau pemasukan lebih, mari [bantu sesama](#bantu-sesama) melalui donasi atau inisiatif lainnya. Jika Anda tidak dapat membantu mereka secara fisik, saling cek kondisi dan berkabar, apalagi jika kondisi temanmu terisolasi. Beri bantuan atau tips lebih untuk mereka yang rentan, pekerja-pekerja garda depan yang sangat terpapar resiko seperti kurir, sopir ojol, tenaga medis, transpuan, dsb. Membantu sesama juga membantu membuat krisis ini lebih cepat berakhir.
@@ -34,20 +35,25 @@ Jika kamu beruntung mempunyai kemampuan atau pemasukan lebih, mari [bantu sesama
 **Bagi tanggungjawab rumah tangga & mengasuh**  
 Seringkali, tugas-tugas rumah tangga dan mengasuh anak maupun orang dewasa dibebankan sepenuhnya ke perempuan dengan tidak adil. Padahal, pekerjaan mengasuh dan pekerjaan rumah tangga seperti memasak, mencuci, bebersih, mengajari anak, bukanlah tanggungjawab perempuan saja. Sebisa mungkin, bicarakan, negosiasikan, dan bagi tugas tersebut dengan orang lain di rumah. Jika Anda -- atau Anda tahu orang yang -- mengalami kekerasan domestik, hubungi ....
 
-
 **Kurangi paparan berita**  
 Kurangi paparan terhadap berita COVID-19 dengan menetapkan waktu dan durasi tertentu dalam sehari untuk menyimak berbagai berita di TV, internet, medsos, WhatsApp group, dsb. Cobalah untuk tidak menonton/membaca berita atau chat di malam hari ketika Anda mempersiapkan tubuh dan pikiran Anda untuk tidur. Jika tingkat kecemasan meningkat, pertimbangkan untuk melakukan meditasi, yoga, atau berdoa. Ajak orang yang tinggal serumah untuk melakukannya juga, karena energi dan stres di sekeliling mempengaruhimu.
 
 **Berkebun, membaca, atau lakukan kegiatan untuk mengisi waktu dan pikiran**  
-Pertimbangkan untuk melihat waktu ini untuk berhenti sejenak, mengevaluasi apa yang penting bagi dirimu, dan lebih merawat diri dan sekitar: coba untuk mulai berkebun (bagus juga untuk mengurangi biaya pangan), membaca, menulis, bermain dengan anak-anak, dll.
+Pertimbangkan untuk melihat waktu ini untuk berhenti sejenak, mengevaluasi apa yang penting bagi dirimu, dan lebih merawat diri dan sekitar: coba untuk mulai berkebun (bagus juga untuk mengurangi biaya makanan), membaca, menulis, menghabiskan lebih banyak waktu dengan keluarga, dll.
 
 [Kembali ke Daftar Isi](#daftar-isi)
 
-# Bekerja & belajar jarak jauh
+# Bekerja & belajar
 
-Ingat bahwa Anda bukan "bekerja/sekolah dari rumah" atau "_work from home_," tetapi **Anda di rumah, berusaha bekerja/ belajar/ mengajar, di tengah krisis pandemi**. Pengalaman seseorang dengan pendidikan sarjana, listrik dan koneksi internet yang stabil, serta tempat tinggal memadai akan sangat berbeda dengan seorang yang tinggal di kampung dengan akses internet dan air bersih terbatas, atau seorang ibu di tengah kesibukan mengasuh anak dan berbagai tumpukan pekerjaan rumah tangga. Jangan mengkompensasi "produktivitas yang menurun" dengan menerapkan jam kerja/belajar yang lebih panjang. Sampaikan ke tempat kerja/ sekolah/ kampus, bahwa di tengah krisis seperti ini, sangat wajar kita butuh waktu beradaptasi dan mendapat keringanan.
+Ingat bahwa Anda bukan "bekerja/sekolah dari rumah" atau "_work from home_," tetapi **Anda di rumah, berusaha bekerja/ belajar/ mengajar, di tengah krisis pandemi**. Pengalaman seseorang dengan pendidikan sarjana, listrik dan koneksi internet yang stabil, serta tempat tinggal memadai akan sangat berbeda dengan seorang yang tinggal di kampung dengan akses internet dan air bersih terbatas, atau seorang ibu di tengah kesibukan mengasuh anak dan berbagai tumpukan pekerjaan rumah tangga.
 
-## Bekerja jarak jauh  
+Jika kamu merasa kewalahan, sampaikan ke tempat kerja/ sekolah/ kampus, bahwa kamu butuh keringanan atau negosiasi waktu. Misalnya jika kamu harus menangani sekolah anak di rumah saat jam kerja--coba tawarkan mengganti beberapa hari kerja ke akhir pekan. Tempat kerja atau sekolah semestinya sadar dan [mengubah ekspektasi kerja](https://hbswk.hbs.edu/item/the-new-rules-for-remote-work-pandemic-edition), memberi keringanan di saat krisis seperti ini. Jangan mengkompensasi "produktivitas yang menurun" dengan menerapkan jam kerja/belajar yang lebih panjang.
+
+## Bekerja jarak jauh
+
+Beberapa dari kita ....
+Jika kamu mengalami pembatalan projek, PHK, "dirumahkan", dan kehilangan pemasukan, ada beberapa organisasi yang menyediakan bantuan, atau menerima [aduan](#aduan-masalah) dan dapat membantumu secara hukum.
+
 
 **Pisahkan waktu & ruang untuk bekerja/belajar dari waktu & ruang pribadi maupun keluarga**  
 Tetapkan jadwal kerja, dan sebisa mungkin ikuti. Fokus ke target-target harian dan realistis yang dapat kamu lakukan, dan jangan terlalu kaku merencanakan jangka panjang, apalagi mengingat situasi yang penuh ketidakpastian. Usahakan untuk tidak mencampurkan aktivitas kerja dengan aktivitas pribadi atau bersantai. Perlakukan waktu kerja seolah-olah Anda berada di kantor, dan waktu pribadi untuk Anda. Ini akan membantu Anda menetapkan batasan yang jelas antara bekerja dan bersantai. Matikan laptop saat Anda selesai bekerja, atau setidaknya tutup program/akun email, aplikasi chat seperti WhatsApp, dll. Bisa juga pisahkan aplikasi chat teman kerja dengan aplikasi chat pribadi. Jika banyak berhadapan dengan layar, ingat untuk meregangkan badan dan berolahraga ringan secara berkala.
@@ -56,7 +62,7 @@ Jika memungkinkan, atur pojok terpisah, _dedicated working space_ di rumah yang 
 
 Mengalami PHK, pembatalan projek, "dirumahkan" tanpa upah?
 
-## Belajar jarak jauh
+## Platform belajar online
 
 Ada banyak kampus seperti [Harvard](https://online-learning.harvard.edu/catalog?keywords=&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=), MIT, Stanford, dsb. ternama yang menyediakan kelas dan materi pembelajaran gratis secara online. Materi bisa diakses gratis, Anda hanya perlu membayar jika ingin mendapatkan sertifikat, dan tentunya telah menyelesaikan kelas serta memenuhi semua persyaratan dan tugas.
 
@@ -71,17 +77,6 @@ Situs e-learning rakyat, dengan banyak materi terkait teknologi informasi, tapi 
 
 [Kembali ke Daftar Isi](#daftar-isi)
 
-## Teknologi
-
-Arahkan ke laman teknologi...
-
-
-
-
-# Keamanan Digital
-
-[Digital Hygiene 101](https://coconet.social/digital-hygiene-safety-security/) - tersedia dalam [bahasa Indonesia](https://coconet.social/digital-hygiene-safety-security-indonesia)
-
 # Peluang kerja & bantuan dana
 
 **[Bagirata](https://bagirata.id/)**  
@@ -93,10 +88,10 @@ Bekerjasama dengan Bagirata, SINDIKASI mendata dan memverifikasi calon penerima 
 **[Digital Rights Opportunities](https://coconet.social/opportunities/)**  
 Kumpulan berbagai peluang seperti lowongan kerja, peluang pendanaan (_funding_), beasisswa, dsb. untuk inisiatif hak digital di Asia Pasifik.
 
-# Bantu sesama
+# :revolving_hearts: Bantu sesama
 
 **[Peduli Kawan Transpuan Surabaya](https://www.instagram.com/p/CANykCIAwUT/)**  
-Inisiatif yang digalang oleh Eva &amp; Anin untuk membantu kawan-kawan transpuan di Surabaya, yang sangat terdampak pandemi dan luput dari bantuan maupun perhatian. Donasi dapat disalurkan ke rekening BCA 777 1129 157 A/N Eva Bachtiar, konfirmasi transfer melalui WhatsApp ke Anin di 0896 7567 9568.   Sumber: Instagram @indonesiafeminis.
+Inisiatif yang digalang oleh Eva &amp; Anin melalui Perwakos untuk membantu kawan-kawan transpuan di Surabaya, yang sangat terdampak pandemi dan luput dari bantuan maupun perhatian. Donasi dapat disalurkan ke rekening BCA 777 1129 157 A/N Eva Bachtiar, konfirmasi transfer melalui WhatsApp ke Anin di 0896 7567 9568.   Sumber: Instagram @indonesiafeminis.
 
 **[Instagram: @Solidaritas.Yogyakarta]**  
 Dapur kolektif untuk menanggulangi krisis pangan bagi pekerja informal di Yogyakarta. Solidaritas Pangan Jogja muncul dari inisiatif masyarakat di Jogja yang terdiri dari pekerja seni, mahasiswa, aktivis, hingga warga umum. Hingga saat ini sudah ada 12 dapur kolektif, yang dioperasikan dengan dana hasil donasi masyarakat. Bagi yang ingin berdonasi, bisa ditransfer ke:
@@ -120,7 +115,7 @@ Ada lebih banyak kampanye penggalangan dana (_fundraising_) dan patungan (_crowd
 
 [Kembali ke Daftar Isi](#daftar-isi)
 
-# Aduan masalah
+# :telephone_receiver: Aduan masalah
 
 Jika mengalami masalah seperti pembatalan projek, PHK sepihak, "dirumahkan" tanpa upah, dipaksa kerja tanpa perlindungan kesehatan, kekerasan domestik, pelecehan seksual (_online_ maupun _offline_), kekerasan berbasis gender online (KBGO) dan sebagainya, kamu bisa membuat [aduan](#pengaduan) atau mencari bantuan dari serikat pekerja, lembaga bantuan hukum, dan berbagai organisasi lainnya. Lihat bagian [pengaduan](#pengaduan).
 
@@ -135,7 +130,7 @@ sindikasi
 
 [Kembali ke Daftar Isi](#daftar-isi)
 
-# Panduan lainnya
+# Pranala luar
 
 **[Kawal COVID-19](https://kawalcovid19.id/)**  
 
