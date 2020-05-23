@@ -2,6 +2,7 @@
 layout: default
 title: COVID-19
 permalink: docs/covid19
+has_children: true
 nav_order: 99
 ---
 

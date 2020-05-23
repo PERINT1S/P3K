@@ -23,10 +23,10 @@ Last updated: 23 Mei 2020
 - [ ] Jangan gunakan password yang sama untuk lebih dari satu akun
 - [ ] Gunakan password kuat: panjang (15 karakter++),  huruf besar/kecil, angka, simbol, spasi.
 - [ ] Gunakan **password manager** seperti KeePassXC.
-  - [ ] Gunakan master password yang kuat tapi dapat kamu ingat. Awas jangan kelupaan master password atau password masuk komputer/perangkat...
-  - [ ] Ingat kalau orang tahu master passwordmu, dia bisa akses banyak akunmu
-  - [ ] Password2 komputer/device baiknya dihafal
-  - [ ] Coba biasakan dgn akun-akun low-risk dulu (misal: subscription newsletter, dsb)
+- [ ] Gunakan master password yang kuat tapi dapat kamu ingat. Awas jangan kelupaan master password atau password masuk komputer/perangkat...
+- [ ] Ingat kalau orang tahu master passwordmu, dia bisa akses banyak akunmu
+- [ ] Password2 komputer/device baiknya dihafal
+- [ ] Coba biasakan dgn akun-akun low-risk dulu (misal: subscription newsletter, dsb)
 - [ ] Sebisa mungkin, **jangan masukkan data tanggal lahir asli** dalam akunmu. Masukkan info tanggal lahir buatan tersebut ke dalam Password Manager.
 - [ ] Waspada terhadap _phishing_ spam dan virus – jangan sembarang mengklik tautan (link) yang dikirimkan orang, sekalipun kamu kenal. **Jika kamu ragu atau merasa aneh: jangan buka**.
 - [ ] Cek apakah akunmu pernah terlibat dalam kebocoran data (_data breach_) di [monitor.firefox.com](https://monitor.firefox.com) atau [haveibeenpwnd.com](https://haveibeenpwnd.com). Jika ya, ganti sandi akun tersebut, dan akun-akun yang menggunakan sandi yang serupa.
@@ -71,6 +71,8 @@ Last updated: 23 Mei 2020
 - [ ] Backup secara berkala dan dengan enkripsi
 
 # Bacaan lanjutan
+
+**[Data Detox Kit](https://datadetoxkit.org/en/home)**, langkah sehari-hari yang dapat dilakukan untuk mengontrol privasi, keamanan, kenyamanan Anda di dunia digital. Tersedia terjemahan [bahasa Indonesia](https://datadetoxkit.org/id/home) terjemahan PERIN+1S. Sumber: [TacticalTech](https://tacticaltech.org/).  
 
 **[Digital Hygiene 101](https://coconet.social/digital-hygiene-safety-security/)**  
 Tips kebersihan digital dari COCONET, juga tersedia dalam [bahasa Indonesia](https://coconet.social/digital-hygiene-safety-security-indonesia)
