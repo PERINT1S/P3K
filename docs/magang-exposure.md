@@ -7,7 +7,7 @@ nav_order: 4
 # Magang &amp; _exposure_
 {: .no_toc }
 
-Magang atau kerja tanpa bayaran menjadi realita bagi banyak pekerja, baik yang masih sekolah/kuliah atau sudah lulus. Demi "exposure", katanya. Namun magang/kerja tanpa dibayar juga mensyaratkan adanya privilese punya modal cukup untuk menyokong biaya hidup sehari-sehari.
+Magang atau kerja tanpa bayaran menjadi realita bagi banyak pekerja, baik yang masih sekolah/kuliah atau sudah lulus. Namun magang/kerja tanpa dibayar juga mensyaratkan adanya privilese atau adanya modal cukup untuk menyokong biaya hidup sehari-sehari. Bagaimana kemudian dengan mereka yang tidak mampu?
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -22,11 +22,13 @@ Magang atau kerja tanpa bayaran menjadi realita bagi banyak pekerja, baik yang m
 
 Kerja atau magang tanpa imbalan ekonomi demi pengalaman dan "_exposure_", seringkali diwajarkan sebagai satu-satunya cara untuk membangun reputasi, "portfolio", mendapat batu loncatan di industri kreatif.
 
-Namun sebenarnya, berapa lama jangka waktu magang? Gimana kalau sudah lama kerja dan menangani projek atau klien, tapi statusnya tetap dibilang magang? Apa yang didapat perusahaan, dan pekerja, dari pemagangan? Apa Undang-undang atau peraturan yang mengatur pemagangan? Butuh kontrak tidak sih untuk magang?
+Namun sebenarnya, berapa lama jangka waktu magang? Gimana kalau sudah lama kerja dan menangani projek atau klien, tapi statusnya tetap magang dan tidak dibayar? Apa yang didapat perusahaan, dan pekerja, dari pemagangan? Apa Undang-undang atau peraturan yang mengatur pemagangan? Butuh kontrak tidak sih untuk magang?
 
-Dalam UU Ketenagakerjaan No. 13 tahun 2003, dikatakan bahwa perlu ada **perjanjian tertulis antara peserta magang dan pengusaha, yang sekurang-kurangnya memuat ketentuan perihal hak dan kewajiban peserta dan pengusaha; serta jangka waktu pemagangan**. Jika pemagangan dilakukan tanpa melalui perjanjian pemagangan, maka pemagangan tersebut dianggap tidak sah dan status pemagang sebetulnya berubah menjadi pekerja/buruh perusahaan yang bersangkutan.
+Dalam UU Ketenagakerjaan No. 13 tahun 2003, dikatakan bahwa perlu ada **perjanjian tertulis** antara peserta magang dan pengusaha, yang sekurang-kurangnya **memuat ketentuan perihal hak dan kewajiban peserta dan pengusaha; serta jangka waktu pemagangan**. Jika pemagangan dilakukan tanpa melalui perjanjian pemagangan, maka pemagangan tersebut dianggap tidak sah dan status pemagang sebetulnya berubah menjadi pekerja/buruh perusahaan yang bersangkutan.
 
-Praktek magang sendiri diwajibkan di perguruan tinggi melalui program [Kuliah Kerja Nyata](https://id.wikipedia.org/wiki/Kuliah_Kerja_Nyata) (KKN). Sialnya, kampus seringkali menormalisasi magang tak berbayar, tanpa kontrak atau jaminan apapun, dengan jangka waktu berbeda-beda. Ada juga yang mengartikan bahwa ketentuan pemagangan yang diatur dalam Undang-undang [tidak mencakup KKN](https://www.hukumonline.com/klinik/detail/ulasan/lt4c6cb635d9527/ketentuan-pemagangan-agar-tak-menyalahi-uu-ketenagakerjaan) dari kampus. Artikel tersebut menyebutkan bagaimana situs LAPOR (Layanan Aspirasi dan Pengaduan Online Rakyat) juga menyebutkan bahwa untuk pemagangan yang dilakukan oleh mahasiswa:
+Selain itu, pekerja magang berhak mendapat:...
+
+Praktek magang sendiri diwajibkan di perguruan tinggi melalui program [Kuliah Kerja Nyata](https://id.wikipedia.org/wiki/Kuliah_Kerja_Nyata) (KKN). Sialnya, kampus seringkali menormalisasi magang tak berbayar, tanpa kontrak atau jaminan apapun, dengan jangka waktu berbeda-beda. Ada yang mengartikan bahwa ketentuan pemagangan yang diatur dalam Undang-undang [tidak mencakup KKN](https://www.hukumonline.com/klinik/detail/ulasan/lt4c6cb635d9527/ketentuan-pemagangan-agar-tak-menyalahi-uu-ketenagakerjaan) dari kampus. Situs LAPOR (Layanan Aspirasi dan Pengaduan Online Rakyat) juga menyebutkan bahwa untuk pemagangan yang dilakukan oleh mahasiswa:
 
 > dalam rangka memenuhi persyaratan akademis yang merupakan bagian kurikulum pendidikan, maka mahasiswa yang bersangkutan tidak dapat diklasifikasikan sebagai peserta magang dalam negeri.
 
@@ -36,7 +38,15 @@ Rumit. Hukum dan sistem pendidikan yang berlaku di Indonesia tampaknya banyak be
 
 [[Negosiasikan kontrak, jam kerja.....]]
 
-## Hukum & Peraturan
+[The problem with unpaid internship](http://www.newschoolfreepress.com/2019/10/23/the-problem-with-unpaid-internships/):
+
+> An unpaid internship is, for the most part, closed off to anyone who needs to actually be making money. This means that most students doing unpaid internships are well-off enough to afford them, canceling out a whole section of people that fall below a certain socioeconomic status, and contribute to the systematic discrimination of minorities, making unpaid internships an inequitable practice.
+
+# Demi _exposure_
+
+
+
+# Hukum & Peraturan
 
 Abi Jam'an Kurnia, S.H., "Jangka Waktu dan Hak-hak Peserta Pemagangan," [_hukumonline.com_](https://www.hukumonline.com/klinik/detail/ulasan/lt50c9bc71e2237/magang/#_ftn6), 15 Maret 2019.
 

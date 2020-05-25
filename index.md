@@ -12,7 +12,7 @@ permalink: /
 Seperangkat _toolkit_ untuk mengarungi berbagai tantangan bekerja di industri kreatif. Dilengkapi dengan peralatan interaktif berupa kartu pemancing pembicaraan (_conversation starter card deck_).
 {: .fs-6 .fw-300 }
 
-[Unduh kartu permainan](#){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unduh PDF buku](https://github.com/PERINT1S/p3k){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Unduh kartu permainan](#){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unduh PDF buku](https://github.com/PERINT1S/p3k){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

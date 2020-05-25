@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Upah
-parent: Upah, kontrak, kondisi kerja
+parent: 
 nav_order: 2
 ---
-
-# Buttons
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -16,7 +13,9 @@ nav_order: 2
 
 ---
 
-## Basic button styles
+## Upah
+
+
 
 ### Links that look like buttons
 
