@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Upah
-parent: 
+parent:
 nav_order: 2
+nav_exclude: true
 ---
 
 ## Table of contents
