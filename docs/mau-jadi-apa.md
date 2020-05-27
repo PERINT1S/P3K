@@ -63,10 +63,11 @@ Pekerja lepas atau dengan sistem kerja kontrak--meski tak jarang juga dilakukan 
 | Para pihak   | satu sebagai freelance | Keduanya pelaku usaha    |
 | Pembayaran   | Dibayar saat selesai   | Ada bagi hasil           |
 | Jenis kerja  | Menjalankan order      | Membuat strategi bersama |
+
 Disadur dari [_Pedoman Kontrak Kerja Freelancer_](https://www.sindikasi.org/unduh/), SINDIKASI 2019.
 {: .text-mono .text-small}
 
-Saat ini ada makin banyak pemberi kerja yang menyebut pekerjanya sebagai "mitra", salah satunya misalnya berbagai ojek online yang menyebut sopir ojek sebagai "mitra" dan bukan pekerja. Meski terdengar lebih "keren", menyematkan status mitra pada pekerja sebetulnya membuat pekerja kehilangan berbagai hak seperti gaji tetap, jaminan kesehatan keselamatan kerja, cuti dan sebagainya.
+Saat ini ada makin banyak pemberi kerja yang menyebut pekerjanya sebagai "mitra", salah satunya misalnya berbagai ojek online yang menyebut sopir ojek sebagai "mitra" dan bukan pekerja. Meski terdengar lebih keren, menyematkan status mitra pada pekerja sebetulnya membuat pekerja kehilangan berbagai hak seperti gaji tetap, jaminan kesehatan keselamatan kerja, cuti dan sebagainya.
 
 Dalam kemitraan, sebagai sama-sama pelaku usaha, ada **penyusunan perjanjian dan strategi bersama**, dan ada **pembagian hasil dari keuntungan kerja sama**. Sementara pekerja menjalankan pesanan dan mendapat bayaran setelah pekerjaan selesai. Pekerja tidak punya daya tawar yang sama untuk menegosiasikan sistem kerja.
 

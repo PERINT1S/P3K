@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free (& Libre) Open Source Technology
+title: Free (& Libre) Open Source
 parent: Teknologi
 nav_order: 3
 ---

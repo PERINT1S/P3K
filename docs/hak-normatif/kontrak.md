@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Kontrak
-parent: 
+parent:
 nav_order: 6
+nav_exclude: true
+
 ---
 
 # Code

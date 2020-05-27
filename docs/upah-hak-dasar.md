@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Upah & Hak Normatif
+title: Upah & hak normatif
 nav_order: 3
 has_children: false
 permalink: /docs/hak-normatif
