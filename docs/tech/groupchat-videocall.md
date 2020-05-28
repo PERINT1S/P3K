@@ -8,7 +8,7 @@ nav_order: 3
 # Group chat & video/audio meeting
 {: .no_toc }
 
-Bekerja jarak jauh (_remote work_)—tanpa pernah bertatap muka dengan kolega ataupun pemberi kerja—adalah fenomena yang banyak terjadi industri kreatif, media, dan digital. Pandemi COVID-19 memaksa makin banyak organisasi dan tim untuk bekerja dari jarak jauh, yang menimbulkan banyak pertanyaan: Alat komunikasi mana yang paling baik, aman, dan terjangkau? Mana yang cocok untuk mengadakan rapat isu sensitif, mana yang untuk sesi bersantai dengan teman? Mana yang cocok untuk melakukan presentasi, kuliah, atau lokakarya? Bagaimana kita memastikan mereka dengan keterbatasan akses internet tetap dapat terlibat?
+Bekerja jarak jauh (_remote work_)—tanpa pernah bertatap muka dengan kolega ataupun pemberi kerja—adalah fenomena yang banyak terjadi industri kreatif, media, dan digital. Pandemi COVID-19 yang memaksa makin banyak organisasi dan tim untuk bekerja dari jarak jauh menimbulkan banyak pertanyaan: Alat komunikasi mana yang paling baik, aman, dan terjangkau? Mana yang cocok untuk mengadakan rapat isu sensitif, mana yang untuk sesi bersantai dengan teman? Mana yang cocok untuk melakukan presentasi, kuliah, atau lokakarya? Bagaimana kita memastikan mereka dengan keterbatasan akses internet tetap dapat terlibat?
 {: .fs-6 .fw-300 }
 
 Last updated: 28 Mei 2020
@@ -24,12 +24,16 @@ Last updated: 28 Mei 2020
 
 ## Bagan panduan
 
-![](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.png)
+![](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.png)  
+
+[Unduh PDF](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.pdf)
+{: .text-mono .text-small}
 
 ## Inklusif
 
+Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, tanyakan pada diri sendiri dan tim, apakah perlu pembahasan ini dilakukan secara _live_ dengan semua peserta melalui _video/audio call_? Apakah tidak bisa ada cara lain seperti text chat atau email saja?
 
-Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, tanyakan pada diri sendiri dan tim, apakah perlu pembahasan ini dilakukan secara _live_ dengan semua peserta melalui _video/audio call_? Siapa saja yang bisa ikut dan tidak bisa ikut? Apakah tidak bisa ada cara lain seperti text chat atau email saja? Tak jarang selesai kita meeting online, sebetulnya kita menggerutu, "Ealah, kalau cuma gini doang, kenapa ngga lewat email aja?" Tanyakan diri sebelum mengajak _meeting_, apakah tidak ada cara lain yang lebih inklusif? Pertimbangkan juga untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
+Tak jarang selesai kita rapat online, sebetulnya kita berpikir, "Ealah, kalau cuma gini doang, kenapa ngga lewat email aja?" Tanyakan diri sebelum mengajak _meeting_, apakah tidak ada cara lain yang lebih inklusif? Siapa saja yang bisa ikut dan tidak bisa ikut jika menggunakan _video call_?
 
  Untuk mengajarkan sesuatu, pertimbangkan mengirimkan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta simak dulu, kemudian pertemuan online bisa digunakan untuk membahas hal-hal yang belum dimengerti. Peserta juga tidak perlu _standby_ sepanjang _meeting_ menanti fasilitator salah-salah pencet ini dan itu, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus yang membuat frustasi, habis data dan uang untuk membayar pulsa.
 
@@ -39,7 +43,7 @@ Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak
 
 ### Peka pada perbedaan jam produktif, beban domestik, kesehatan mental
 
-Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja seperti mengasuh anak/orang tua atau pekerjaan rumah tangga yang terkadang membuat pekerja lebih suka bekerja di malam hari. Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_.
+Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja seperti mengasuh anak/orang tua atau pekerjaan rumah tangga yang terkadang membuat pekerja lebih suka bekerja di malam hari. Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_. Pertimbangkan juga untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
 
 ## Keamanan, privasi, dan _open source_
 
@@ -59,4 +63,4 @@ Video Call Apps Guide by **[Mozilla Foundation](https://foundation.mozilla.org/e
 
 Ada juga banyak panduan kerja jarak jauh dari **[Gitlab](https://about.gitlab.com/company/culture/all-remote/guide/)**, salah satu perusahaan dengan 1.200 orang pekerja yang semuanya bekerja _remote_ dari 65 negara di seluruh dunia dengan zona waktu yang berbeda-beda.
 
-"Así que necesitas hacer una videollamada," **[Derechos Digitales](https://www.derechosdigitales.org/videollamada/)**, panduan memilih aplikasi _video call_ dalam bahasa Spanyol. 
+"Así que necesitas hacer una videollamada," **[Derechos Digitales](https://www.derechosdigitales.org/videollamada/)**, panduan memilih aplikasi _video call_ dalam bahasa Spanyol.
