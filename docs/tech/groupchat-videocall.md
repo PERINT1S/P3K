@@ -8,7 +8,7 @@ nav_order: 3
 # Group chat & video/audio meeting
 {: .no_toc }
 
-Bekerja jarak jauh (_remote work_)—tanpa pernah bertatap muka dengan kolega ataupun pemberi kerja—adalah fenomena yang banyak terjadi industri kreatif, media, dan digital. Pandemi COVID-19 memaksa makin banyak organisasi dan tim untuk bekerja dari jarak jauh, yang menimbulkan banyak pertanyaan: Alat komunikasi mana yang paling baik, aman, dan terjangkau? Mana yang cocok untuk mengadakan rapat isu sensitif, mana yang untuk sesi bersantai dengan teman? Mana yang cocok untuk melakukan presentasi, kuliah, atau lokakarya? Bagaimana kita memastikan mereka dengan beban kerja ganda atau akses internet terbatas tetap dapat terlibat?
+Bekerja jarak jauh (_remote work_)—tanpa pernah bertatap muka dengan kolega ataupun pemberi kerja—adalah fenomena yang banyak terjadi industri kreatif, media, dan digital. Pandemi COVID-19 memaksa makin banyak organisasi dan tim untuk bekerja dari jarak jauh, yang menimbulkan banyak pertanyaan: Alat komunikasi mana yang paling baik, aman, dan terjangkau? Mana yang cocok untuk mengadakan rapat isu sensitif, mana yang untuk sesi bersantai dengan teman? Mana yang cocok untuk melakukan presentasi, kuliah, atau lokakarya? Bagaimana kita memastikan mereka dengan keterbatasan akses internet tetap dapat terlibat?
 {: .fs-6 .fw-300 }
 
 Last updated: 28 Mei 2020
@@ -22,7 +22,7 @@ Last updated: 28 Mei 2020
 
 ---
 
-## Bagan panduan memilih aplikasi group chat dan video/audio call
+## Bagan panduan
 
 ![](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.png)
 
@@ -43,18 +43,20 @@ Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja s
 
 ## Keamanan, privasi, dan _open source_
 
-Secara umum, kami tidak terlalu merekomendasikan alat-alat yang tidak menggunakan teknologi [_open source_](https://en.wikipedia.org/wiki/Open_source) atau _proprietary_ seperti Microsoft, Google, Facebook, WhatsApp, Zoom, dsb, karena riwayat panjang mereka dalam memonetisasi informasi tentang pengguna dan bagaimana _source code_ mereka tidak dapat dilihat atau diteliti oleh publik.
+Secara umum, kami tidak terlalu merekomendasikan alat-alat yang tidak menggunakan teknologi [_open source_](https://en.wikipedia.org/wiki/Open_source) atau _proprietary_ seperti Microsoft, Google, Facebook, WhatsApp, Zoom, dsb, karena riwayat panjang mereka dalam memonetisasi informasi tentang pengguna dan bagaimana _source code_ mereka tidak dapat dilihat atau diaudit oleh publik.
 
 Namun di tengah berbagai keterbatasan kapasitas perangkat, akses internet, informasi, dsb, penggunaan alat yang ada tidak dapat dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Dalam panduan ini, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang tertutup diwarnai merah. Lebih lanjut mengenai keamanan dan privasi aplikasi ini dapat disimak di [bacaan lanjutan](#bacaan-lanjutan) di bawah
 
 ## Bacaan lanjutan
 
 FLM Security Team, "How to Pick a Videoconferencing Platform", **[First Look Media](https://code.firstlook.media/how-to-pick-a-video-conferencing-platform)**, 21 April 2020.  
-Salah satu bahan utama artikel ini. FLM banyak merekomendasikan Keybase sebagai salah satu alternatif alat komunikasi tim, begitupula dengan kami sebelumnya. Namun setelah artikel ini terbit, [Zoom mengakuisisi Keybase](https://keybase.io/blog/keybase-joins-zoom) pada tanggal 8 Mei 2020. Karenanya banyak yang kemudian mempertanyakan keberlanjutan privasi dan keaman Keybase.
+Salah satu bahan utama artikel ini. FLM awalnya banyak merekomendasikan Keybase sebagai salah satu alternatif alat komunikasi tim, begitupula dengan kami sebelumnya. Namun setelah artikel ini terbit, [Zoom mengakuisisi Keybase](https://keybase.io/blog/keybase-joins-zoom) pada tanggal 8 Mei 2020. Karenanya banyak yang kemudian mempertanyakan keberlanjutan privasi dan keaman Keybase.
 
 "Guide to Secure Group Chat and Conferencing Tools," **[Front Line Defenders](https://www.frontlinedefenders.org/en/resource-publication/guide-secure-group-chat-and-conferencing-tools)**, 27 Mei 2020.
 Juga salah satu bahan utama artikel ini. Materi FLD terutama cocok untuk jurnalis, aktivis, dan orang-orang rentan resiko atau banyak menangani data sensitif.
 
 Video Call Apps Guide by **[Mozilla Foundation](https://foundation.mozilla.org/en/privacynotincluded/categories/video-call-apps/)** mengulas privasi dan keamanan berbagai aplikasi video populer seperti Zoom, Google Duo/Meet/Hangout, Facetime, Skype, WhatsApp, Houseparty, Gotomeeting, Microsoft Teams, dsb.
 
-Ada juga banyak panduan dari [Gitlab](https://about.gitlab.com/company/culture/all-remote/guide/), salah satu perusahaan dengan 1.200 orang pekerja yang semuanya bekerja jarak jauh dari 65 negara di seluruh dunia.
+Ada juga banyak panduan kerja jarak jauh dari **[Gitlab](https://about.gitlab.com/company/culture/all-remote/guide/)**, salah satu perusahaan dengan 1.200 orang pekerja yang semuanya bekerja _remote_ dari 65 negara di seluruh dunia dengan zona waktu yang berbeda-beda.
+
+"Así que necesitas hacer una videollamada," **[Derechos Digitales](https://www.derechosdigitales.org/videollamada/)**, panduan memilih aplikasi _video call_ dalam bahasa Spanyol. 
