@@ -2,6 +2,7 @@
 layout: default
 title: Tanggungan & ongkos
 nav_order: 5
+nav_exclude: true
 ---
 
 # Tanggungan &amp; ongkos

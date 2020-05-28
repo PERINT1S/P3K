@@ -2,6 +2,7 @@
 layout: default
 title: Free (& Libre) Open Source
 parent: Teknologi
+nav_exclude: true
 nav_order: 3
 ---
 
@@ -75,8 +76,7 @@ Last updated: 23 Mei 2020
 
 **[Data Detox Kit](https://datadetoxkit.org/en/home)**, langkah sehari-hari yang dapat dilakukan untuk mengontrol privasi, keamanan, kenyamanan Anda di dunia digital. Tersedia dalam [bahasa Indonesia](https://datadetoxkit.org/id/home), diterjemahkan [PERIN+1S](https://perintis.or.id). Dibuat oleh [TacticalTech](https://tacticaltech.org) dengan dukungan [Mozilla](https://www.mozilla.org/).  
 
-**[Digital Hygiene 101](https://coconet.social/digital-hygiene-safety-security/)**  
-Tips kebersihan digital dari COCONET, juga tersedia dalam [bahasa Indonesia](https://coconet.social/digital-hygiene-safety-security-indonesia)
+**[Digital Hygiene 101](https://coconet.social/digital-hygiene-safety-security/)** berisi tips kebersihan digital dari COCONET, juga tersedia dalam [bahasa Indonesia](https://coconet.social/digital-hygiene-safety-security-indonesia)
 
 **[Digital First Aid Kit](https://digitalfirstaid.org/en/index.html)**, panduan jika kamu mengalami gawai hilang atau berperilaku mencurigakan (apakah disadap?), situs web tidak berjalan, kehilangan akses akun, dsb.
 

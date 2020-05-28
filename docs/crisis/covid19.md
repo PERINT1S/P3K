@@ -129,5 +129,7 @@ sindikasi
 
 **[Kawal COVID-19](https://kawalcovid19.id/)**  
 
+Physical, emotional and digital protection while using home as office in times of COVID-19: Ideas & tips for human right defenders dari **[Front Line Defenders](https://www.frontlinedefenders.org/en/statement-report/physical-emotional-and-digital-protection-while-using-home-office-times-covid-19)**
+
 **[Coronavirus Tech Handbook](https://coronavirustechhandbook.com/contents)**  
 Daftar peralatan, layanan, dan sumber yang berkaitan dengan respons COVID-19 yang dikumpulkan secara sukarela (bahasa Inggris).
