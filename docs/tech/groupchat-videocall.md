@@ -28,19 +28,18 @@ Last updated: 28 Mei 2020
 
 ## Inklusif
 
-Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, tanyakan pada diri sendiri dan tim, apakah perlu pembahasan ini dilakukan secara live melalui _video/audio call_? Apakah tidak bisa ada cara lain seperti mengirimkan materi berupa rekaman video/audio, atau teks bacaan, untuk peserta simak dulu, kemudian pertemuan online bisa digunakan untuk membahas hal-hal yang belum dimengerti?
+
+Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, tanyakan pada diri sendiri dan tim, apakah perlu pembahasan ini dilakukan secara _live_ dengan semua peserta melalui _video/audio call_? Siapa saja yang bisa ikut dan tidak bisa ikut? Apakah tidak bisa ada cara lain seperti text chat atau email saja? Tak jarang selesai kita meeting online, sebetulnya kita menggerutu, "Ealah, kalau cuma gini doang, kenapa ngga lewat email aja?" Tanyakan diri sebelum mengajak _meeting_, apakah tidak ada cara lain yang lebih inklusif? Pertimbangkan juga untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
+
+ Untuk mengajarkan sesuatu, pertimbangkan mengirimkan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta simak dulu, kemudian pertemuan online bisa digunakan untuk membahas hal-hal yang belum dimengerti. Peserta juga tidak perlu _standby_ sepanjang _meeting_ menanti fasilitator salah-salah pencet ini dan itu, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus yang membuat frustasi, habis data dan uang untuk membayar pulsa.
 
 ### Pertimbangkan akses internet peserta
 
-Cara seperti ini jauh lebih menghemat bandwith, jadi sangat perlu dipertimbangkan jika timmu tidak memiliki akses internet yang baik. Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Apalagi di saat krisis dan orang harus berhemat membeli pulsa atau paket data.
+Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Apalagi di saat krisis dan orang harus berhemat membeli pulsa atau paket data. Pertimbangkan cara-cara komunikasi yang menghemat bandwith, apalagi jika pesertamu memiliki akses internet terbatas.
 
-Peserta juga tidak perlu _standby_ sepanjang rapat, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus yang membuat frustasi, habis data dan uang untuk membayar pulsa.
-
-### Jam kerja, beban domestik, kesehatan mental
+### Peka pada perbedaan jam produktif, beban domestik, kesehatan mental
 
 Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja seperti mengasuh anak/orang tua atau pekerjaan rumah tangga yang terkadang membuat pekerja lebih suka bekerja di malam hari. Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_.
-
-Selalu tanyakan sebelum mengajak _meeting_, apakah tidak ada cara lain yang lebih inklusif? Pertimbangkan juga untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
 
 ## Keamanan, privasi, dan _open source_
 
