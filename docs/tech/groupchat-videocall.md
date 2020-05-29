@@ -40,9 +40,15 @@ Tak jarang selesai kita rapat online, sebetulnya kita berpikir, "Ealah, kalau cu
 
 Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Apalagi di saat krisis dan orang harus berhemat membeli pulsa atau paket data. Pertimbangkan cara-cara komunikasi yang menghemat bandwith, apalagi jika pesertamu memiliki akses internet terbatas.
 
-### Jam kerja (re)produktif & kesehatan mental
+### Jam (re)produktif & kesehatan mental
 
-Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja seperti mengasuh anak/orang tua atau pekerjaan rumah tangga, kewajiban sosial dan keluarga, yang terkadang membuat pekerja lebih suka bekerja di malam hari karena minim gangguan. Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_. Pertimbangkan juga untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
+Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja dan sosial seperti mengasuh anak/orang tua atau pekerjaan rumah tangga, kewajiban sosial dan keluarga, yang terkadang membuat pekerja perlu bekerja di waktu yang tidak konvensional seperti malam hari karena minim gangguan.
+
+Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_.
+
+### Alur kerja & komunikasi _asynchronous_
+
+Pertimbangkan juga untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
 
 ## Keamanan, privasi, dan _open source_
 
