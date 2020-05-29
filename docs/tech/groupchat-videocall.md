@@ -34,21 +34,21 @@ Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, t
 
 ### Pertimbangkan akses internet
 
-Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Apalagi di saat krisis dan orang harus berhemat membeli pulsa atau paket data. Pertimbangkan cara-cara komunikasi yang menghemat bandwith, apalagi jika pesertamu memiliki akses internet terbatas. Tak jarang selesai kita rapat online, sebetulnya kita berpikir, "Kalau cuma gini doang, kenapa ngga chat/email/update di kalender aja?"
+Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Apalagi di saat krisis dan banyak orang mengalami kesulitan ekonomi, harus berhemat membeli pulsa atau paket data. Pertimbangkan cara-cara komunikasi yang menghemat _bandwith_, apalagi jika pesertamu memiliki akses internet terbatas. Tak jarang selesai kita rapat online, sebetulnya kita berpikir, "Kalau cuma gini doang, kenapa ngga chat/email/update di kalender aja?"
 
 Pertimbangkan mengirimkan agenda dan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta pelajari dulu, apalagi untuk mengajar. Momen pertemuan online kemudian bisa efektif digunakan untuk membahas hal-hal yang belum dimengerti dan perlu didiskusikan. Peserta juga tidak perlu _standby_ sepanjang _meeting_, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus dan kesulitan menyimak, belum lagi habis data dan uang untuk membayar pulsa.
 
 ### Jam (re)produktif & kesehatan mental
 
-Untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja dan sosial seperti mengasuh anak/orang tua atau pekerjaan rumah tangga, kewajiban sosial dan keluarga, yang terkadang membuat pekerja perlu bekerja di waktu yang tidak konvensional seperti malam hari karena minim gangguan.
+Untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja dan sosial seperti mengasuh anak/orang tua atau pekerjaan rumah tangga, kewajiban sosial dan keluarga, yang terkadang membuat orang perlu bekerja di waktu yang tidak konvensional seperti malam hari untuk mengurangi distraksi.
 
 Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_.
 
 ### Alur kerja & komunikasi _asynchronous_
 
-Pertimbangkan untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_ seperti Asana, Basecamp, Trello -- ada banyak juga opsi [_open source_](https://opensource.com/article/18/2/agile-project-management-tools) seperti [Gitlab](https://about.gitlab.com/), [Taiga](https://taiga.io/), agar tim tidak kewalahan harus _standby_ berkomunikasi setiap saat. Mereka bisa fokus bekerja dan bukannya terdistraksi harus menjawab email atau pesan setiap saat. Ingat bahwa bagi banyak orang yang tidak tinggal atau punya kantor sendiri, siang hari membawa banyak gangguan. Belum lagi jika kamu bekerja dengan tim dari negara lain dengan zona waktu yang berbeda.
+Pertimbangkan untuk menerapkan alur kerja dan komunikasi _asynchronous_ dengan menggunakan aplikasi _project management_ seperti Asana, Basecamp, Trello -- ada banyak juga opsi [_open source_](https://opensource.com/article/18/2/agile-project-management-tools) seperti [Gitlab](https://about.gitlab.com/), [Taiga](https://taiga.io/) -- agar tim tidak kewalahan harus _standby_ berkomunikasi setiap saat. Mereka bisa fokus bekerja dan bukannya terdistraksi harus menjawab email atau pesan setiap saat. Ingat bahwa bagi banyak orang yang tidak tinggal atau punya kantor sendiri, siang hari membawa banyak distraksi. Belum lagi jika kamu bekerja dengan tim dari negara lain dengan zona waktu yang berbeda.
 
-Baca lebih jauh mengenai komunikasi _asynchronous_ di Doist atau [Quartz](https://qz.com/work/1853725/why-asynchronous-communication-works-for-teams/).
+Baca lebih jauh mengenai komunikasi _asynchronous_ di [Gitlab](https://about.gitlab.com/company/culture/all-remote/asynchronous/) atau [Doist](https://doist.com/blog/asynchronous-communication/).
 
 ## Keamanan, privasi, dan _open source_
 

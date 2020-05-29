@@ -17,7 +17,7 @@ nav_exclude: true
 
 ## Apa itu P3K?
 
-P3K dalam laman ini merupakan singkatan dari Pertlongan Pertama Pada Kreativitas. Terinspirasi dari kotak P3K Pertolongan Pertama Pada Kecelakaan, P3Kreativitas ini adalah seperangkat alat atau _toolkit_ untuk membantu kita  mengarungi berbagai tantangan bekerja di industri kreatif.
+P3K dalam laman ini merupakan singkatan dari Pertlongan Pertama Pada Kreativitas. Terinspirasi dari kotak P3K Pertolongan Pertama Pada Kecelakaan, P3Kreativitas ini adalah seperangkat alat atau _toolkit_ untuk membantu kita  mengarungi berbagai tantangan bekerja di industri kreatif. 
 
 Perangkat P3K di sini mencakup:  
 1. website ini, yang juga merupakan platform online P3K
