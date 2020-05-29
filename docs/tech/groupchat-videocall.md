@@ -42,19 +42,23 @@ Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak
 
 ### Jam (re)produktif & kesehatan mental
 
-Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja dan sosial seperti mengasuh anak/orang tua atau pekerjaan rumah tangga, kewajiban sosial dan keluarga, yang terkadang membuat pekerja perlu bekerja di waktu yang tidak konvensional seperti malam hari karena minim gangguan.
+Untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja dan sosial seperti mengasuh anak/orang tua atau pekerjaan rumah tangga, kewajiban sosial dan keluarga, yang terkadang membuat pekerja perlu bekerja di waktu yang tidak konvensional seperti malam hari karena minim gangguan.
 
 Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_.
 
 ### Alur kerja & komunikasi _asynchronous_
 
-Pertimbangkan juga untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
+Pertimbangkan untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_ seperti Asana, Basecamp, Trello -- ada banyak juga opsi [_open source_](https://opensource.com/article/18/2/agile-project-management-tools) seperti [Gitlab](https://about.gitlab.com/), [Taiga](https://taiga.io/), agar tim tidak kewalahan harus _standby_ berkomunikasi setiap saat. Mereka bisa fokus bekerja dan bukannya terdistraksi harus menjawab email atau pesan setiap saat. Ingat bahwa bagi banyak orang yang tidak tinggal atau punya kantor sendiri, siang hari membawa banyak gangguan. Belum lagi jika kamu bekerja dengan tim dari negara lain dengan zona waktu yang berbeda.
+
+Baca lebih jauh mengenai komunikasi _asynchronous_ di Doist atau [Quartz](https://qz.com/work/1853725/why-asynchronous-communication-works-for-teams/).
 
 ## Keamanan, privasi, dan _open source_
 
 Secara umum, kami tidak terlalu merekomendasikan alat-alat yang tidak menggunakan teknologi [_open source_](https://en.wikipedia.org/wiki/Open_source), atau _proprietary_ seperti Microsoft, Google, Facebook, WhatsApp, Zoom, dsb. Kita tahu riwayat panjang mereka dalam memonetisasi informasi tentang pengguna dan bagaimana _source code_ mereka tidak dapat dilihat atau diaudit oleh publik.
 
-Namun di tengah berbagai keterbatasan kapasitas perangkat, akses internet, informasi, dsb, penggunaan alat seadanya sulit dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Dalam panduan ini, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang tertutup diwarnai merah. Lebih lanjut mengenai keamanan dan privasi aplikasi ini dapat disimak di [bacaan lanjutan](#bacaan-lanjutan) di bawah
+Namun di tengah berbagai keterbatasan kapasitas perangkat, akses internet, informasi, dsb, penggunaan alat seadanya sulit dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Dalam panduan ini, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang tertutup diwarnai merah.
+
+Lebih lanjut mengenai keamanan dan privasi aplikasi-aplikasi ini dapat disimak di [bacaan lanjutan](#bacaan-lanjutan) di bawah
 
 ## Bacaan lanjutan
 
