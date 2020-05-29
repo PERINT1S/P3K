@@ -44,7 +44,7 @@ Untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja dan sosial sep
 
 Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_.
 
-### Alur kerja & komunikasi _asynchronous_
+## Alur kerja & komunikasi _asynchronous_
 
 Pertimbangkan untuk menerapkan alur kerja dan komunikasi _asynchronous_ dengan menggunakan aplikasi _project management_ seperti Asana, Basecamp, Trello -- ada banyak juga opsi [_open source_](https://opensource.com/article/18/2/agile-project-management-tools) seperti [Gitlab](https://about.gitlab.com/), [Taiga](https://taiga.io/) -- agar tim tidak kewalahan harus _standby_ berkomunikasi setiap saat. Mereka bisa fokus bekerja dan bukannya terdistraksi harus menjawab email atau pesan setiap saat. Ingat bahwa bagi banyak orang yang tidak tinggal atau punya kantor sendiri, siang hari membawa banyak distraksi. Belum lagi jika kamu bekerja dengan tim dari negara lain dengan zona waktu yang berbeda.
 
@@ -56,9 +56,7 @@ Secara umum, kami tidak terlalu merekomendasikan alat-alat yang tidak menggunaka
 
 Namun di tengah berbagai keterbatasan kapasitas perangkat, akses internet, informasi, dsb, penggunaan alat seadanya sulit dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Dalam panduan ini, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang tertutup diwarnai merah.
 
-Lebih lanjut mengenai keamanan dan privasi aplikasi-aplikasi ini dapat disimak di [bacaan lanjutan](#bacaan-lanjutan) di bawah
-
-## Bacaan lanjutan
+Lebih lanjut mengenai keamanan dan privasi aplikasi-aplikasi ini dapat disimak di bacaan-bacaan di bawah ini:
 
 * FLM Security Team, "How to Pick a Videoconferencing Platform", **[First Look Media](https://code.firstlook.media/how-to-pick-a-video-conferencing-platform)**, 21 April 2020.  
 Salah satu bahan utama artikel ini. FLM awalnya banyak merekomendasikan Keybase sebagai salah satu alternatif alat komunikasi tim. Namun setelah artikel ini terbit, [Zoom mengakuisisi Keybase](https://keybase.io/blog/keybase-joins-zoom) pada tanggal 8 Mei 2020. Karenanya banyak yang kemudian mempertanyakan keberlanjutan privasi dan keaman Keybase.
