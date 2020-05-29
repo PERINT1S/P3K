@@ -45,7 +45,7 @@ Diskusi mengenai magang tidak dibayar ini cukup sering dibahas di luar, dan semp
 
 Banyak perusahaan menawarkan orang untuk bekerja gratis, atau dengan upah rendah, dengan alasan _exposure_ atau "menambah portfolio". Ada juga perusahaan yang mengkapitalisasi hubungan pertemanan pekerjanya dengan meminta mereka yang melakukan penawaran harga murah atau bahkan gratis ke kamu, karena tahu kamu lebih sungkan menolak teman.
 
-Coba klik bagan di bawah ini, yang lengkapnya dapat kamu simak di [shouldiworkforfree.com](http://www.shouldiworkforfree.com/) buatan Jessica Hische. Di sebelah kiri atas, kamu bisa klik opsi bahasa Indonesia (meski terjemahannya kadang aneh).
+Coba klik bagan di bawah ini, yang lengkapnya dapat kamu simak di [shouldiworkforfree.com](http://www.shouldiworkforfree.com/) buatan Jessica Hische. Di sebelah kiri atas, kamu bisa klik opsi bahasa Indonesia (meski terjemahannya kadang aneh). 
 
 ![](https://www.perintis.or.id/wp-content/uploads/2020/05/shouldiworkforfree.png)
 
