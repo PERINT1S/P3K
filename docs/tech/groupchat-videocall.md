@@ -34,7 +34,7 @@ Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, t
 
 Tak jarang selesai kita rapat online, sebetulnya kita berpikir, "Ealah, kalau cuma gini doang, kenapa ngga chat/email aja?" Tanyakan diri sebelum mengajak _meeting_, apakah tidak ada cara lain yang lebih inklusif? Pertimbangkan, siapa saja yang bisa ikut dan tidak bisa ikut jika kita menggunakan _video call_?
 
- Untuk mengajar, pertimbangkan mengirimkan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta simak dulu, kemudian pertemuan online bisa digunakan untuk membahas hal-hal yang belum dimengerti. Peserta juga tidak perlu _standby_ sepanjang _meeting_ menanti fasilitator salah-salah pencet ini dan itu, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus yang membuat frustasi, habis data dan uang untuk membayar pulsa.
+ Untuk mengajar, pertimbangkan mengirimkan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta simak dulu, agar pertemuan online bisa efektif digunakan untuk membahas hal-hal yang belum dimengerti. Peserta juga tidak perlu _standby_ sepanjang _meeting_, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus dan kesulitan menyimak, belum lagi habis data dan uang untuk membayar pulsa.
 
 ### Pertimbangkan akses internet
 
@@ -46,9 +46,9 @@ Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja s
 
 ## Keamanan, privasi, dan _open source_
 
-Secara umum, kami tidak terlalu merekomendasikan alat-alat yang tidak menggunakan teknologi [_open source_](https://en.wikipedia.org/wiki/Open_source) atau _proprietary_ seperti Microsoft, Google, Facebook, WhatsApp, Zoom, dsb, karena riwayat panjang mereka dalam memonetisasi informasi tentang pengguna dan bagaimana _source code_ mereka tidak dapat dilihat atau diaudit oleh publik.
+Secara umum, kami tidak terlalu merekomendasikan alat-alat yang tidak menggunakan teknologi [_open source_](https://en.wikipedia.org/wiki/Open_source), atau _proprietary_ seperti Microsoft, Google, Facebook, WhatsApp, Zoom, dsb. Kita tahu riwayat panjang mereka dalam memonetisasi informasi tentang pengguna dan bagaimana _source code_ mereka tidak dapat dilihat atau diaudit oleh publik.
 
-Namun di tengah berbagai keterbatasan kapasitas perangkat, akses internet, informasi, dsb, penggunaan alat yang ada tidak dapat dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Dalam panduan ini, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang tertutup diwarnai merah. Lebih lanjut mengenai keamanan dan privasi aplikasi ini dapat disimak di [bacaan lanjutan](#bacaan-lanjutan) di bawah
+Namun di tengah berbagai keterbatasan kapasitas perangkat, akses internet, informasi, dsb, penggunaan alat seadanya sulit dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Dalam panduan ini, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang tertutup diwarnai merah. Lebih lanjut mengenai keamanan dan privasi aplikasi ini dapat disimak di [bacaan lanjutan](#bacaan-lanjutan) di bawah
 
 ## Bacaan lanjutan
 
