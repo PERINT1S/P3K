@@ -17,7 +17,6 @@ Magang atau kerja tanpa bayaran menjadi realita bagi banyak pekerja, baik yang m
 {:toc}
 
 ---
-
 ## Magang
 
 Kerja atau magang tanpa imbalan ekonomi demi pengalaman dan "_exposure_", seringkali diwajarkan sebagai satu-satunya cara untuk membangun reputasi atau  "portfolio", atau mendapat batu loncatan di industri kreatif.

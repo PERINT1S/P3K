@@ -24,7 +24,7 @@ Last updated: 28 Mei 2020
 
 ## Bagan panduan
 
-![Memilih group chat dan conferencing apps](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.png)
+![](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.png)
 
 [Unduh dalam bentuk PDF](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.pdf)
 {: .text-mono .text-small}
