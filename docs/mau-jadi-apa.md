@@ -83,7 +83,7 @@ Dalam UU Ketenagakerjaan, disebutkan bahwa ada dua bentuk perjanjian kerja, yakn
 
 Namun di sisi lain, _freelancer_ tak serta-merta dapat disamakan dengan pekerja harian lepas, karena kadang _freelancer_ dibayar berdasarkan keluaran kerjanya, bukan berdasarkan hari kerja. Lebih jauh, simak [_Pedoman Kontrak Kerja Freelancer_](https://www.sindikasi.org/unduh/) buatan SINDIKASI & LBH Pers (2019). Lebih bagus lagi, bergabung dalam serikat :)
 
-### Omnibus Law alias RUU Cilaka
+## Omnibus Law alias RUU Cilaka
 
 Pernah dengar tentang Omnibus Law atau RUU Cipta Lapangan Kerja (Cilaka) yang ramai dibicarakan orang? Emang apa sih dampaknya pada kita? Simak infografik singkat ini dari [katadata](https://katadata.co.id/infografik/2020/02/18/beda-omnibus-law-dan-uu-tenaga-kerja).
 

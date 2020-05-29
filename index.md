@@ -9,10 +9,8 @@ permalink: /
 # Pertolongan Pertama Pada Kreativitas
 {: .fs-9 }
 
-P3K adalah seperangkat alat atau _toolkit_ untuk mengarungi berbagai tantangan bekerja di industri kreatif. Perangkat P3K mencakup:  
-1. website ini, yang juga merupakan platform online P3K
-1. permainan interaktif berupa kartu pemancing pembicaraan (_conversation starter card deck_)
-1. buku saku.
+
+Penasaran masuk dalam industri kreatif, media, atau teknologi? Kepengen jadi _entrepreneur_ atau _freelancer_? Atau bingung [mau jadi apa]({{ site.baseurl }}{% link docs/mau-iadi-apa.md %})? Ditawari kerja atau magang tanpa bayaran atau upahnya murah demi [_exposure_]({{ site.baseurl }}{% link docs/magang-exposure.md %})? Perlu bekerja jarak jauh tapi bingung milih aplikasi video/audio [call atau group chat]({{ site.baseurl }}{% link docs/groupchat-videocall.md %}) atau menggunakan [teknologi dengan aman]({{ site.baseurl }}{% link docs/keamanan-digital.md %})?
 {: .fs-6 .fw-300 }
 
 [Unduh kartu permainan](#){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unduh PDF buku saku](#){: .btn .fs-5 .mb-4 .mb-md-0 }

@@ -23,7 +23,6 @@ Last updated: 28 Mei 2020
 ---
 
 ## Bagan panduan
-
 ![](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.png)
 
 [Unduh dalam bentuk PDF](https://www.perintis.or.id/wp-content/uploads/2020/05/MemilihGroupChatConferencing.pdf)

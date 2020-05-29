@@ -47,7 +47,7 @@ Banyak perusahaan menawarkan orang untuk bekerja gratis, atau dengan upah rendah
 
 Coba klik bagan di bawah ini, yang lengkapnya dapat kamu simak di [shouldiworkforfree.com](http://www.shouldiworkforfree.com/) buatan Jessica Hische. Di sebelah kiri atas, kamu bisa klik opsi bahasa Indonesia (meski terjemahannya kadang aneh).
 
-![Should I work for free](https://www.perintis.or.id/wp-content/uploads/2020/05/shouldiworkforfree.png)
+![](https://www.perintis.or.id/wp-content/uploads/2020/05/shouldiworkforfree.png)
 
 ## Bacaan lanjutan
 
