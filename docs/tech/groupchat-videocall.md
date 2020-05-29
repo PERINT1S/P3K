@@ -35,21 +35,23 @@ Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, t
 
 Tak jarang selesai kita rapat online, sebetulnya kita berpikir, "Ealah, kalau cuma gini doang, kenapa ngga lewat email aja?" Tanyakan diri sebelum mengajak _meeting_, apakah tidak ada cara lain yang lebih inklusif? Siapa saja yang bisa ikut dan tidak bisa ikut jika menggunakan _video call_?
 
- Untuk mengajarkan sesuatu, pertimbangkan mengirimkan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta simak dulu, kemudian pertemuan online bisa digunakan untuk membahas hal-hal yang belum dimengerti. Peserta juga tidak perlu _standby_ sepanjang _meeting_ menanti fasilitator salah-salah pencet ini dan itu, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus yang membuat frustasi, habis data dan uang untuk membayar pulsa.
+ Untuk mengajarkan sesuatu, pertimbangkan mengirimkan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta simak dulu, kemudian pertemuan online bisa digunakan untuk membahas hal-hal yang belum dimengerti. Peserta juga tidak perlu _standby_ sepanjang _meeting_--kita tahu banyak meeting online habis dengan kendala teknis. Peserta juga bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus yang membuat frustasi, habis data dan uang untuk membayar pulsa.
 
 ### Pertimbangkan akses internet
 
 Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Apalagi di saat krisis dan orang harus berhemat membeli pulsa atau paket data. Pertimbangkan cara-cara komunikasi yang menghemat bandwith, apalagi jika pesertamu memiliki akses internet terbatas.
 
-### Jam kerja (re)produktif & kesehatan mental
+### Jam (re)produktif & kesehatan mental
 
-Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja seperti mengasuh anak/orang tua atau pekerjaan rumah tangga, kewajiban sosial dan keluarga, yang terkadang membuat pekerja lebih suka bekerja di malam hari karena minim gangguan. Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental. Di tengah pandemi ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_. Pertimbangkan juga untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
+Begitu pula, untuk banyak orang yang bekerja dari rumah, ada beban-beban kerja seperti mengasuh anak/orang tua atau pekerjaan rumah tangga, kewajiban sosial dan keluarga, yang terkadang membuat pekerja lebih suka bekerja di malam hari karena minim gangguan. Penggunaan _video call_ dan _chatting_ berlebihan juga menguras tidak hanya bandwith tapi juga energi dan kesehatan mental.
+
+Di tengah [pandemi](https://perint1s.github.io/p3k/docs/covid19#kesehatan-mental--fisik) ini, banyak sekali yang merasakan [_video call fatigue_](https://www.nationalgeographic.com/science/2020/04/coronavirus-zoom-fatigue-is-taxing-the-brain-here-is-why-that-happens/), kelelahan karena banyak _video meeting_ dan tekanan kesehatan mental. Pertimbangkan untuk menerapkan alur kerja dan komunikasi [_asynchronous_](https://about.gitlab.com/company/culture/all-remote/asynchronous/) dengan menggunakan aplikasi _project management_.
 
 ## Keamanan, privasi, dan _open source_
 
 Secara umum, kami tidak terlalu merekomendasikan alat-alat yang tidak menggunakan teknologi [_open source_](https://en.wikipedia.org/wiki/Open_source) atau _proprietary_ seperti Microsoft, Google, Facebook, WhatsApp, Zoom, dsb, karena riwayat panjang mereka dalam memonetisasi informasi tentang pengguna dan bagaimana _source code_ mereka tidak dapat dilihat atau diaudit oleh publik.
 
-Namun di tengah berbagai keterbatasan kapasitas perangkat, akses internet, informasi, dsb, penggunaan alat yang ada tidak dapat dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Dalam panduan ini, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang tertutup diwarnai merah. Lebih lanjut mengenai keamanan dan privasi aplikasi ini dapat disimak di [bacaan lanjutan](#bacaan-lanjutan) di bawah
+Namun di tengah berbagai keterbatasan kapasitas perangkat, akses internet, informasi, dsb, penggunaan alat yang ada tidak dapat dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Di [bagan panduan](#bagan-panduan) di atas, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang tertutup diwarnai merah. Lebih lanjut mengenai keamanan dan privasi aplikasi ini dapat disimak di [bacaan lanjutan](#bacaan-lanjutan) di bawah
 
 ## Bacaan lanjutan
 
