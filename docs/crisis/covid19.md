@@ -19,7 +19,7 @@ Laman ini memuat berbagai tips dan tautan untuk membantu menghadapi COVID-19.
 
 # Kesehatan mental &amp; fisik
 
-Ingat bahwa **pandemi ini memiliki dampak emosional dan fisik yang sangat besar dan berbeda-beda untuk tiap orang**. Tingkat produktivitas tidak akan sama, dan setiap orang harus beradaptasi dengan situasi, konteks, peralatan teknologi baru, dengan modal dan lingkungan yang berbeda-beda.
+Ingat bahwa **pandemi ini memiliki dampak emosional dan fisik yang sangat besar dan berbeda-beda untuk tiap orang**. Tingkat produktivitas tidak akan sama, dan setiap orang harus beradaptasi dengan situasi, konteks, peralatan teknologi baru, dengan modal dan lingkungan yang berbeda-beda. Banyak sekali yang mengalami di-"rumahkan" tanpa pemasukan sama sekali, dipotong upahnya, atau di-PHK. Banyak orang tua harus bekerja dari rumah sembari mengajari anak.
 
 **_Be kind to yourself and to others_**  
 Lebih sabar dan peduli pada diri sendiri maupun orang lain. Jangan bandingkan dirimu dengan orang lain, begitu pula sebaliknya. Maklumi dan maafkan diri sendiri dan orang lain jika ada tanggungjawab atau pekerjaan yang terbengkalai--sangat wajar di tengah krisis seperti ini. Pertimbangkan juga keluarga, teman, kolega, klien, pekerja, tetangga dengan berbagai kerentanan yang mereka hadapi.
@@ -34,7 +34,7 @@ Sebisa mungkin, jaga pola jam kerja dan istirahat, serta pola makan minum yang s
 Jika kamu beruntung mempunyai kemampuan atau pemasukan lebih, mari [bantu sesama](#bantu-sesama) melalui donasi atau inisiatif lainnya. Jika Anda tidak dapat membantu mereka secara fisik, saling cek kondisi dan berkabar, apalagi jika kondisi temanmu terisolasi. Beri bantuan atau tips lebih untuk mereka yang rentan, pekerja-pekerja garda depan yang sangat terpapar resiko seperti kurir, sopir ojol, tenaga medis, transpuan, dsb. Membantu sesama juga membantu membuat krisis ini lebih cepat berakhir.
 
 **Bagi tanggungjawab rumah tangga & mengasuh**  
-Seringkali, tugas-tugas rumah tangga dan mengasuh anak maupun orang dewasa dibebankan sepenuhnya ke perempuan dengan tidak adil. Padahal, pekerjaan mengasuh dan pekerjaan rumah tangga seperti memasak, mencuci, bebersih, mengajari anak, bukanlah tanggungjawab perempuan saja. Sebisa mungkin, bicarakan, negosiasikan, dan bagi tugas tersebut dengan orang lain di rumah. Jika Anda -- atau Anda tahu orang yang -- mengalami kekerasan domestik, hubungi ....
+Seringkali, tugas-tugas rumah tangga dan mengasuh anak maupun orang dewasa dibebankan sepenuhnya ke perempuan dengan tidak adil. Padahal, pekerjaan mengasuh dan pekerjaan rumah tangga seperti memasak, mencuci, bebersih, mengajari anak, bukanlah tanggungjawab perempuan saja. Sebisa mungkin, bicarakan, negosiasikan, dan bagi tugas tersebut dengan orang lain di rumah.
 
 **Batasi paparan berita**  
 Batasi paparan terhadap berita COVID-19 dengan menetapkan waktu dan durasi tertentu dalam sehari untuk menyimak berbagai berita di TV, internet, medsos, WhatsApp group, koran, dsb. Cobalah untuk tidak menonton/membaca berita atau chat di malam hari ketika Anda mempersiapkan tubuh dan pikiran Anda untuk tidur.
@@ -47,8 +47,6 @@ Pertimbangkan untuk melihat waktu ini untuk berhenti sejenak, mengevaluasi apa y
 Ingat bahwa Anda bukan "bekerja/sekolah dari rumah" atau "_work from home_," tetapi **Anda di rumah, berusaha bekerja/ belajar/ mengajar, di tengah krisis pandemi**. Pengalaman seseorang dengan pendidikan sarjana, listrik dan koneksi internet yang stabil, serta tempat tinggal memadai akan sangat berbeda dengan seorang yang tinggal di kampung dengan akses internet dan air bersih terbatas, atau seorang ibu di tengah kesibukan mengasuh anak dan berbagai tumpukan pekerjaan rumah tangga.
 
 Jika kamu merasa kewalahan, sampaikan ke tempat kerja/ sekolah/ kampus, bahwa kamu butuh keringanan atau negosiasi waktu. Misalnya jika kamu harus menangani sekolah anak di rumah saat jam kerja--coba tawarkan mengganti beberapa hari kerja ke akhir pekan. **Jangan merayakan/menerapkan jam kerja/belajar yang lebih panjang.** Tempat kerja atau sekolah perlu menyadari dan [mengubah ekspektasi kerja](https://hbswk.hbs.edu/item/the-new-rules-for-remote-work-pandemic-edition), memberi keringanan di saat krisis seperti ini.
-
-
 
 ## Bekerja jarak jauh
 
