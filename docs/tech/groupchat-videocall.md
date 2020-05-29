@@ -30,15 +30,13 @@ Last updated: 28 Mei 2020
 
 ## Inklusif
 
-Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, tanyakan pada diri sendiri dan peserta, perlukah pembahasan ini dilakukan secara _live_ dengan semua peserta melalui _video/audio call_? Apakah tidak bisa menggunakan cara lain seperti text chat, email, atau forum saja?
-
-Tak jarang selesai kita rapat online, sebetulnya kita berpikir, "Ealah, kalau cuma gini doang, kenapa ngga chat/email aja?" Tanyakan diri sebelum mengajak _meeting_, apakah tidak ada cara lain yang lebih inklusif? Pertimbangkan, siapa saja yang bisa ikut dan tidak bisa ikut jika kita menggunakan _video call_?
-
- Untuk mengajar, pertimbangkan mengirimkan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta simak dulu, agar pertemuan online bisa efektif digunakan untuk membahas hal-hal yang belum dimengerti. Peserta juga tidak perlu _standby_ sepanjang _meeting_, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus dan kesulitan menyimak, belum lagi habis data dan uang untuk membayar pulsa.
+Pertama-tama, sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, tanyakan pada diri sendiri dan peserta, perlukah pembahasan ini dilakukan secara _live_ dengan semua peserta melalui _video/audio call_? Pertimbangkan, siapa saja yang bisa ikut dan tidak bisa ikut jika kita menggunakan _video call_? Bagaimana dengan mereka yang internetnya terbatas? Tanyakan diri sebelum mengajak _meeting_, apakah tidak ada cara lain yang lebih inklusif? Bisakah pembahasan dilakukan menggunakan cara lain seperti text chat, email, atau forum lainnya?
 
 ### Pertimbangkan akses internet
 
-Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Apalagi di saat krisis dan orang harus berhemat membeli pulsa atau paket data. Pertimbangkan cara-cara komunikasi yang menghemat bandwith, apalagi jika pesertamu memiliki akses internet terbatas.
+Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Apalagi di saat krisis dan orang harus berhemat membeli pulsa atau paket data. Pertimbangkan cara-cara komunikasi yang menghemat bandwith, apalagi jika pesertamu memiliki akses internet terbatas. Tak jarang selesai kita rapat online, sebetulnya kita berpikir, "Kalau cuma gini doang, kenapa ngga chat/email/update di kalender aja?"
+
+Pertimbangkan mengirimkan agenda dan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta pelajari dulu, apalagi untuk mengajar. Momen pertemuan online kemudian bisa efektif digunakan untuk membahas hal-hal yang belum dimengerti dan perlu didiskusikan. Peserta juga tidak perlu _standby_ sepanjang _meeting_, dan bisa _replay_ video/audio atau membaca ulang materi sesuai kebutuhan daripada mengalami koneksi putus-putus dan kesulitan menyimak, belum lagi habis data dan uang untuk membayar pulsa.
 
 ### Jam (re)produktif & kesehatan mental
 
