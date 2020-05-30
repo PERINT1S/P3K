@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Keamanan Digital Dasar
+title: Keamanan Digital
 parent: Teknologi
 nav_order: 3
 ---
