@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Magang & exposure
+description: "Magang, exposure"
 nav_order: 4
 ---
 
@@ -43,11 +44,11 @@ Diskusi mengenai magang tidak dibayar ini cukup sering dibahas di luar, dan semp
 
 ## Kerja dibayar _exposure_?
 
-Banyak perusahaan menawarkan orang untuk bekerja gratis, atau dengan upah rendah, dengan alasan _exposure_ atau "menambah portfolio". Ada juga perusahaan yang mengkapitalisasi hubungan pertemanan pekerjanya dengan meminta mereka yang melakukan penawaran harga murah atau bahkan gratis ke kamu, karena tahu orang cenderung lebih sungkan menolak tawaran teman.
-
 ![](https://www.perintis.or.id/wp-content/uploads/2020/05/shouldiworkforfree.png)  
 Sumber: Jessica Hische, [_Should I work for free?_](http://www.shouldiworkforfree.com/)
 {: .text-mono .text-small}
+
+Banyak perusahaan menawarkan orang untuk bekerja gratis, atau dengan upah rendah, dengan alasan _exposure_ atau "menambah portfolio". Ada juga perusahaan yang mengkapitalisasi hubungan pertemanan pekerjanya dengan meminta mereka yang melakukan penawaran harga murah atau bahkan gratis ke kamu, karena tahu orang cenderung lebih sungkan menolak tawaran teman. Berhati-hatilah dengan tawaran-tawaran seperti ini. Baca juga bacaan lanjutan di bawah untuk pertimbanganmu.
 
 ## Bacaan lanjutan
 

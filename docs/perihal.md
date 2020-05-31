@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Perihal
-nav_exclude: true
+title: Perihal P3K
+nav_order: 99
 ---
 
 # Perihal P3K

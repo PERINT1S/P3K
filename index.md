@@ -15,3 +15,5 @@ Dan, di tengah [pandemi COVID-19](docs/covid19), apakah mengalami [kehilangan pe
 {: .fs-6 .fw-300 }
 
 [Unduh kartu permainan](#){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unduh PDF buku](#){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+P3K ini [apaan sih](docs/perihal)?
