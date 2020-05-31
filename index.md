@@ -8,9 +8,10 @@ permalink: /
 
 # Pertolongan Pertama Pada Kreativitas
 
-Selamat datang! Di sini kamu dapat menemukan berbagai panduan untuk berkecimpung di industri kreatif. Misalnya: Pengen kerja di industri kreatif, media, atau teknologi, tapi bingung [mau jadi apa](mau-jadi-apa), _entrepreneur_, pekerja purna waktu, atau _freelancer_? Atau cape ditawari kerja dibayar [_exposure_](magang-exposure) saja? Bingung melihat tawaran upah yang tidak seberapa, sudah begitu ijazah ditahan pula? Emang apa sih [hak-hakmu](hak-normatif) sebagai pekerja?
+Selamat datang! Di sini kamu dapat menemukan berbagai panduan untuk berkecimpung di industri kreatif. Misalnya: Pengen kerja di industri kreatif, media, atau teknologi, tapi bingung [mau jadi apa](mau-jadi-apa), _entrepreneur_, pekerja purna waktu, atau _freelancer_? Atau cape ditawari kerja cuma dibayar [_exposure_](magang-exposure)? Bingung melihat tawaran upah yang tidak seberapa, sudah begitu [ijazah ditahan](hak-normatif#penahanan-ijazah) pula? Emang apa sih [hak-hakmu](hak-normatif) sebagai pekerja?
+{: .fs-6 .fw-300 }
 
-Dan, di tengah [pandemi COVID-19](covid19), apakah mengalami PHK, kehilangan pemasukan, gangguan tidur dan kesehatan mental? Atau kesulitan bekerja jarak jauh, bingung [milih aplikasi](groupchat-videocall) _video/audio call_ atau bagaimana menggunakan [teknologi dengan aman](keamanan-digital) :computer:?
+Dan, di tengah [pandemi COVID-19](covid19), apakah mengalami PHK, kehilangan pemasukan, gangguan tidur dan [kesehatan mental](covid19#kesehatan-mental--fisik)? Atau kesulitan bekerja jarak jauh, bingung [milih aplikasi](groupchat-videocall) _video/audio call_ atau bagaimana menggunakan [teknologi dengan aman](keamanan-digital)?
 {: .fs-6 .fw-300 }
 
 [Unduh kartu permainan](#){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unduh PDF buku](#){: .btn .fs-5 .mb-4 .mb-md-0 }

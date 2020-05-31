@@ -30,7 +30,7 @@ Karena konteks budaya dan sejarah ini, banyak pekerja merasa [enggan disebut bur
 
 ## _Entrepreneur_, wirausaha, pengusaha
 
-Istilah _entrepreneur_ kini makin banyak kita dengar di Indonesia, tak jarang disandingkan dengan istilah lain seperti _creativepreneur_, _social entrepreneur_, _technopreneur_, _ecopreneur_, dan sebagainya-_preneur_.
+Istilah _entrepreneur_ kini makin banyak kita dengar di Indonesia, tak jarang disandingkan dengan istilah lain seperti _creativepreneur_, _social entrepreneur_, _technopreneur_, _ecopreneur_, dan sebagainya- _preneur_.
 
 Namun apa itu _entrepeneur_? Bisakah kita memasukkan profesi _entrepreneur_ dalam KTP, formulir pajak, atau kartu sensus penduduk? Pajak dan hukum apa yang berlaku pada seorang _entrepreneur_? Apakah seorang _entrepreneur_ otomatis adalah bos bagi dirinya sendiri? Bagaimana jika dia seorang desainer _freelance_ yang bekerja untuk banyak bos--apakah dia juga seorang _entrepreneur_?
 
@@ -38,9 +38,9 @@ Ada banyak program _marketing_, _self-help_, atau promosi pendidikan yang mengat
 
 Jika kita mencari definisi _entrepreneur_, bisa dipastikan kita akan menemukan puluhan definisi yang berbeda. Di Indonesia sendiri, istilah ini baru banyak digunakan setelah memasuki abad ke-21, seiring dengan makin derasnya narasi mengenai [_entrepreneurship_](https://www.wired.com/2013/11/silicon-valley-isnt-a-meritocracy-and-the-cult-of-the-entrepreneur-holds-people-back/) dan [Silicon Valley](https://link.springer.com/chapter/10.1057/9780230583603_3).
 
-Meski ada makin banyak industri pendidikan dan pemasaran yang memasukkan _entrepreneurship_ dalam programnya, istilah _entrepreneur_ sebetulnya [belum diakui](https://kbbi.kemdikbud.go.id/entri/entrepreneur) dalam Kamus Besar Bahasa Indonesia. Secara hukum pun tidak/belum ada. Pada umumnya _entrepreneur_ diterjemahan menjadi wirausaha/wiraswasta, dan _entrepreneurship_ kewirausahaan. Pemerintah sendiri saat ini sedang mempersiapkan [Rancangan Undang](https://analisis.kontan.co.id/news/mengulas-ruu-kewirausahaan-nasional)-[undang Kewirausahaan](http://www.dpr.go.id/dokakd/dokumen/RJ2-20151210-040422-8650.pdf), tapi masih belum disahkan. 
+Meski ada makin banyak industri pendidikan dan pemasaran yang memasukkan _entrepreneurship_ dalam programnya, istilah _entrepreneur_ sebetulnya [belum diakui](https://kbbi.kemdikbud.go.id/entri/entrepreneur) dalam Kamus Besar Bahasa Indonesia. Secara hukum pun tidak/belum ada. Pada umumnya _entrepreneur_ diterjemahan menjadi wirausaha/wiraswasta, dan _entrepreneurship_ kewirausahaan. Pemerintah sendiri saat ini sedang mempersiapkan [Rancangan Undang](https://analisis.kontan.co.id/news/mengulas-ruu-kewirausahaan-nasional)-[undang Kewirausahaan](http://www.dpr.go.id/dokakd/dokumen/RJ2-20151210-040422-8650.pdf), tapi masih belum disahkan.
 
-Karena itu, istilah _entrepreneur_ bisa mencakup usaha wiraswasta (_self-employed_), bisnis satu orang, dan bahkan [_freelancer_](#freelancer). Namun kerangka dan perlindungan hukumnya bisa berbeda-beda, tergantung apakah kamu pemberi kerja atau penerima kerja alias pekerja. Nah, pastikan kamu sadar hak-hak dan kewajibanmu, apakah sebagai pekerja ataupun pemberi kerja.
+Karena itu, istilah _entrepreneur_ bisa mencakup usaha wiraswasta (_self-employed_), bisnis satu orang, dan bahkan [_freelancer_](#freelancer). Namun kerangka dan perlindungan hukumnya bisa berbeda-beda, tergantung apakah kamu pemberi kerja atau penerima kerja alias pekerja. Nah, pastikan kamu sadar hak-hak dan kewajibanmu, apakah sebagai pekerja ataupun pemberi kerja. Lihat [hak normatif](upah-hak-normatif).
 
 ## _Freelancer_ (pekerja lepas)
 
@@ -48,7 +48,7 @@ Akar istilah _freelance_ pertama kali digunakan untuk menyebut tentara bayaran l
 
 Meski ini memberi ilusi kebebasan, bekerja lepas seperti ini juga memiliki banyak resiko seperti tidak adanya jaminan kesehatan, pemasukan tetap, alat produksi seperti komputer, HP, internet, listrik, kendaraan, dsb yang harus disediakan, dirawat, dan dibayar sendiri, dan tidak dimasukkan dalam komponen beban operasional kantor oleh pemberi kerja. Dengan kata lain: pekerja menanggung sendiri berbagai resiko kesehatan, berbagai resiko kerusakan alat produksi.
 
-Beberapa kondisi rentan yang dipetakan SINDIKASI sering dialami _freelancer_ antara lain:
+Beberapa kondisi rentan yang dipetakan [SINDIKASI](https://sindikasi.org) sering dialami _freelancer_ antara lain:
 1. tidak adanya kontrak kerja
 1. tidak adanya perlindungan sosial
 1. tidak adanya hak-hak normatif seperti upah ataupun jam kerja layak, tidak adanya jaminan kesehatan dan Ketenagakerjaan
@@ -56,7 +56,7 @@ Beberapa kondisi rentan yang dipetakan SINDIKASI sering dialami _freelancer_ ant
 1. beban kerja yang tidak sesuai dengan perjanjian
 1. menjadi korban pencurian ide dan hak kekayakaan intelektual
 
-Jadi, jika kamu memilih/terpaksa bekerja _freelance_, pastikan kamu menyadari berbagai resikonya, serta menghitung juga biaya-biaya beban operasional produksi yang harus kamu tanggung.
+Jadi, jika kamu memutuskan ataupun terpaksa bekerja _freelance_, pastikan kamu menyadari berbagai resiko dan hak-hakmu, serta menghitung juga biaya-biaya beban operasional produksi yang harus kamu tanggung.
 
 ## Mitra
 
@@ -95,5 +95,3 @@ Baca lebih lanjut beberapa penjelasan mengenai bagaimana RUU Cilaka ini cilaka t
 * Alfian Putra Abdi, "Kontroversi Pasal 170 RUU Cilaka yang Menyalahi Konstitusi," [**Tirto.id**](https://tirto.id/kontroversi-pasal-170-ruu-cilaka-yang-menyalahi-konstitusi-ezzE)
 * Fadiyah Alaidrus, "RUU Cilaka dan RUU Halu Dinilai Hapus Perlindungan Buruh Perempuan," [**Tirto.ID**](https://tirto.id/ruu-cilaka-dan-ruu-halu-dinilai-hapus-perlindungan-buruh-perempuan-eCoA) 2 Maret 2020.
 * Emma Primastiwi, "Tentang Nasib Buruh sampai Pekerja Kreatif dalam RUU Cipta Kerja," [**Whiteboardjournal**](https://www.whiteboardjournal.com/ideas/human-interest/tentang-nasib-buruh-sampai-pekerja-kreatif-dalam-ruu-cipta-kerja/) 2 Maret 2020.
-
-## Bacaan lanjutan

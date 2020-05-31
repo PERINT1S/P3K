@@ -33,8 +33,8 @@ Sebisa mungkin, jaga pola jam kerja dan istirahat, serta pola makan minum yang s
 **Bantu sesama dan sekitarmu**  
 Jika kamu beruntung mempunyai kemampuan atau pemasukan lebih, mari [bantu sesama](#bantu-sesama) melalui donasi atau inisiatif lainnya. Jika Anda tidak dapat membantu mereka secara fisik, saling cek kondisi dan berkabar, apalagi jika kondisi temanmu terisolasi. Beri bantuan atau tips lebih untuk mereka yang rentan, pekerja-pekerja garda depan yang sangat terpapar resiko seperti kurir, sopir ojol, tenaga medis, transpuan, dsb. Membantu sesama juga membantu membuat krisis ini lebih cepat berakhir.
 
-**Bagi tanggungjawab rumah tangga & mengasuh**  
-Seringkali, tugas-tugas rumah tangga dan mengasuh anak maupun orang dewasa dibebankan sepenuhnya ke perempuan dengan tidak adil. Padahal, pekerjaan mengasuh dan pekerjaan rumah tangga seperti memasak, mencuci, bebersih, mengajari anak, bukanlah tanggungjawab perempuan saja. Bicarakan, negosiasikan, dan bagi tugas tersebut dengan orang lain di rumah.
+**Bagi tanggungjawab di rumah**  
+Seringkali, tugas-tugas rumah tangga dan mengasuh anak maupun orang dewasa dibebankan sepenuhnya ke perempuan dengan tidak adil. Padahal, pekerjaan mengasuh dan pekerjaan rumah tangga seperti memasak, mencuci, bebersih, mengajari anak, bukanlah tanggungjawab perempuan saja. Bicarakan, negosiasikan, dan bagi tugas tersebut dengan orang lain di rumah. Rumah sayangnya tidak selalu aman bagi semua orang. Jika kamu mengalami, atau tahu orang yang mengalami kekerasan rumah tangga, kekerasan seksual, kamu bisa mengadukan ke [Komnas Perempuan](https://komnasperempuan.go.id) atau [LBH Apik Jakarta](https://linktr.ee/lbhapik.jakarta).  
 
 **Batasi paparan berita**  
 Batasi paparan terhadap berita COVID-19 dengan menetapkan waktu dan durasi tertentu dalam sehari untuk menyimak berbagai berita di TV, internet, medsos, WhatsApp group, koran, dsb. Cobalah untuk tidak menonton/membaca berita atau chat di malam hari ketika Anda mempersiapkan tubuh dan pikiran Anda untuk tidur.
@@ -46,7 +46,7 @@ Pertimbangkan untuk melihat waktu ini untuk berhenti sejenak, mengevaluasi apa y
 
 Ingat bahwa Anda bukan "bekerja/sekolah dari rumah" atau "_work from home_," tetapi **Anda di rumah, berusaha bekerja/ belajar/ mengajar, di tengah krisis pandemi**. Pengalaman seseorang dengan pendidikan sarjana, listrik dan koneksi internet yang stabil, serta tempat tinggal memadai akan sangat berbeda dengan seorang yang tinggal di kampung dengan akses internet dan air bersih terbatas, atau seorang ibu di tengah kesibukan mengasuh anak dan berbagai tumpukan pekerjaan rumah tangga.
 
-Jika kamu merasa kewalahan, sampaikan ke tempat kerja/ sekolah/ kampus, bahwa kamu butuh keringanan atau negosiasi waktu. Misalnya jika kamu harus menangani sekolah anak di rumah saat jam kerja--coba tawarkan mengganti beberapa hari kerja ke akhir pekan. **Jangan merayakan/menerapkan jam kerja/belajar yang lebih panjang.** Tempat kerja atau sekolah perlu menyadari dan [mengubah ekspektasi kerja](https://hbswk.hbs.edu/item/the-new-rules-for-remote-work-pandemic-edition), memberi keringanan di saat krisis seperti ini.
+Jika kamu merasa kewalahan, sampaikan ke tempat kerja/ sekolah/ kampus, bahwa kamu butuh keringanan atau negosiasi waktu. Misalnya jika kamu harus menangani sekolah anak di rumah saat jam kerja. **Jangan merayakan, mengglorifikasi jam kerja yang lebih panjang.** Tempat kerja atau sekolah perlu menyadari dan [mengubah ekspektasi kerja](https://hbswk.hbs.edu/item/the-new-rules-for-remote-work-pandemic-edition), memberi keringanan di saat krisis seperti ini.
 
 ## Bekerja jarak jauh
 
@@ -100,7 +100,7 @@ Bantuan dapat disalurkan melalui:
 * OVO Pay di nomor 082143087369
 * Platform [Sharing Happiness](https://sharinghappiness.org/bantuburuhperempuan) (menerima berbagai bank transfer)
 
-Sumber: Laporan penyaluran di [situs web FNKSDA](https://fnksda.or.id/laporan-tahap-ii-berkah-ramadhan-untuk-keluarga-buruh-perempuan-terdampak-covid-19/). 
+Sumber: Laporan penyaluran di [situs web FNKSDA](https://fnksda.or.id/laporan-tahap-ii-berkah-ramadhan-untuk-keluarga-buruh-perempuan-terdampak-covid-19/).
 
 **[Instagram: @Solidaritas.Yogyakarta](https://www.instagram.com/solidaritas.yogyakarta/)**  
 Dapur kolektif untuk menanggulangi krisis pangan bagi pekerja informal di Yogyakarta. Solidaritas Pangan Jogja muncul dari inisiatif masyarakat di Jogja yang terdiri dari pekerja seni, mahasiswa, aktivis, hingga warga umum. Hingga saat ini sudah ada 12 dapur kolektif, yang dioperasikan dengan dana hasil donasi masyarakat. Bagi yang ingin berdonasi, bisa ditransfer ke:
@@ -116,22 +116,11 @@ Alumni Fakultas Kedokteran Universitas Airlangga menggalang dana untuk tenaga me
 Donasi uang dapat ditransfer ke:
 - BCA 0440 816 622 A/N Inggrid Ayusari Asali.
 - Mandiri 900 001 775 5035 A/N Zahra Safithry Irawan.  
+
 Sumber: [Jakarta Post](https://www.thejakartapost.com/life/2020/03/20/anti-covid-19-initiatives-helping-indonesia-fight-the-outbreak.html)
 
 **[Kumpulan inisiatif anti-COVID-19 oleh Jakarta Post](https://www.thejakartapost.com/life/2020/03/20/anti-covid-19-initiatives-helping-indonesia-fight-the-outbreak.html)**  
 Ada lebih banyak kampanye penggalangan dana (_fundraising_) dan patungan (_crowdfunding_) yang dikumpulkan dan terus diperbarui dalam satu artikel oleh _Jakarta Post_.
-
-# Aduan masalah
-
-Jika mengalami masalah seperti pembatalan projek, PHK sepihak, "dirumahkan" tanpa upah, dipaksa kerja tanpa perlindungan kesehatan, kekerasan domestik, pelecehan seksual (_online_ maupun _offline_), kekerasan berbasis gender online (KBGO) dan sebagainya, kamu bisa membuat [aduan](#pengaduan) atau mencari bantuan dari serikat pekerja, lembaga bantuan hukum, dan berbagai organisasi lainnya. Lihat bagian [pengaduan](#pengaduan).
-
-Lembaga Bantuan hukum
-
-**Kekerasan berbasis gender & pelecehan seksual**  
-
-
-sindikasi
-
 
 # Pranala luar
 

@@ -10,7 +10,7 @@ nav_order: 4
 Magang atau kerja tanpa bayaran menjadi realita bagi banyak pekerja, baik yang masih sekolah/kuliah atau sudah lulus. Namun magang/kerja tanpa dibayar juga mensyaratkan adanya modal cukup untuk menyokong biaya hidup sehari-sehari. Bagaimana kemudian dengan mereka yang tidak mampu?
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Daftar isi
 {: .no_toc .text-delta }
 
 1. TOC
@@ -45,7 +45,7 @@ Diskusi mengenai magang tidak dibayar ini cukup sering dibahas di luar, dan semp
 
 Banyak perusahaan menawarkan orang untuk bekerja gratis, atau dengan upah rendah, dengan alasan _exposure_ atau "menambah portfolio". Ada juga perusahaan yang mengkapitalisasi hubungan pertemanan pekerjanya dengan meminta mereka yang melakukan penawaran harga murah atau bahkan gratis ke kamu, karena tahu kamu lebih sungkan menolak teman.
 
-Coba klik bagan di bawah ini, yang lengkapnya dapat kamu simak di [shouldiworkforfree.com](http://www.shouldiworkforfree.com/) buatan Jessica Hische. Di sebelah kiri atas, kamu bisa klik opsi bahasa Indonesia (meski terjemahannya kadang aneh). 
+Coba klik bagan di bawah ini, yang lengkapnya dapat kamu simak di [shouldiworkforfree.com](http://www.shouldiworkforfree.com/) buatan Jessica Hische. Di sebelah kiri atas, kamu bisa klik opsi bahasa Indonesia (meski terjemahannya kadang aneh).
 
 ![](https://www.perintis.or.id/wp-content/uploads/2020/05/shouldiworkforfree.png)
 
