@@ -72,17 +72,17 @@ UU Ketenagakerjaan dan peraturan nasional sayangnya tidak mengatur mengenai pena
 
 Padahal kita tahu sendiri penerima kerja seringkali tidak memiliki daya tawar yang sama dengan pemberi kerja. Belum lagi, praktek penahanan ijazah seringkali tidak disertai ketentuan dan syarat penahanan ijazah. Banyak kasus pekerja kesulitan meminta pertanggungjawaban perusahaan ketika perusahaan menolak mengembalikan ijazah, atau ijazah rusak, hilang, dan sebagainya.  
 
-Jadi jika terpaksa ijazahmu ditahan, baiknya [pastikan ada perjanjian kerja](https://www.linkedin.com/pulse/praktek-penahanan-ijazah-oleh-perusahaan-bolehkah-menurut-manurung) atau kesepakatan tertulis antara perusahaan denganmu, yang membahas kapan ijazah perlu dikembalikan, dan apa tanggungjawab perpusahaan jika ijazahmu hilang atau rusak. Baiknya juga kamu pindai (_scan_) atau foto ijazahmu agar kamu ada salinan digitalnya.  
-
 ### Jawa Timur: Pengusaha dilarang menahan ijazah
 
 Khusus daerah provinsi Jawa Timur, telah ada peraturan **melarang praktek penahanan ijazah**. Dalam pasal 42 Peraturan Daerah Jawa Timur No. 8/2016 tentang Penyelenggaraan Ketenagakerjaan disebutkan:
 
-> “Pengusaha dilarang menahan atau menyimpan dokumen asli yang sifatnya melekat pada pekerja sebagai jaminan”.
+> Pengusaha dilarang menahan atau menyimpan dokumen asli yang sifatnya melekat pada pekerja sebagai jaminan.
 
 Dalam Penjelasannya dijelaskan bahwa “Dokumen asli yang dimaksud adalah Kartu Tanda Penduduk (KTP), Surat Izin Mengemudi (SIM), akte kelahiran, kartu keluarga, paspor, ijazah dan sertifikat”. Perda tersebut juga mengatur sanksi bagi pengusaha atau pemberi kerja yang melakukan penahanan ijazah, yakni:
 
 > pidana kurungan paling lama 6 (enam) bulan atau denda paling banyak Rp 50.000.000,00 (lima puluh juta rupiah).
+
+Bagaimanapun, jika terpaksa ijazahmu ditahan, [pastikan ada perjanjian kerja](https://www.linkedin.com/pulse/praktek-penahanan-ijazah-oleh-perusahaan-bolehkah-menurut-manurung) atau kesepakatan tertulis antara perusahaan denganmu, yang membahas kapan ijazah perlu dikembalikan, dan apa tanggungjawab perpusahaan jika ijazahmu hilang atau rusak. Baiknya juga kamu pindai (_scan_) atau foto ijazahmu agar kamu ada salinan digitalnya.  
 
 ## Hak berserikat & berkumpul
 

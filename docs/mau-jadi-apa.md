@@ -56,7 +56,7 @@ Beberapa kondisi rentan yang dipetakan [SINDIKASI](https://sindikasi.org) sering
 1. beban kerja yang tidak sesuai dengan perjanjian
 1. menjadi korban pencurian ide dan hak kekayakaan intelektual
 
-Jadi, jika kamu memutuskan ataupun terpaksa bekerja _freelance_, pastikan kamu menyadari berbagai resiko dan hak-hakmu, serta menghitung juga biaya-biaya beban operasional produksi yang harus kamu tanggung.
+Jadi, jika kamu memutuskan ataupun terpaksa bekerja _freelance_, pastikan kamu menyadari berbagai resiko dan hak-hakmu, serta menghitung juga biaya-biaya beban operasional produksi yang harus kamu tanggung. Lihat bagian [hak normatif](upah-hak-normatif).
 
 ## Mitra
 

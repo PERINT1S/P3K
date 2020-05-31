@@ -73,13 +73,9 @@ Last updated: 23 Mei 2020
 
 # Bacaan lanjutan
 
-**[Data Detox Kit](https://datadetoxkit.org/en/home)**, langkah sehari-hari yang dapat dilakukan untuk mengontrol privasi, keamanan, kenyamanan Anda di dunia digital. Tersedia dalam [bahasa Indonesia](https://datadetoxkit.org/id/home), diterjemahkan [PERIN+1S](https://perintis.or.id). Dibuat oleh [TacticalTech](https://tacticaltech.org) dengan dukungan [Mozilla](https://www.mozilla.org/).  
-
-**[Digital Hygiene 101](https://coconet.social/digital-hygiene-safety-security/)**  
+* **[Data Detox Kit](https://datadetoxkit.org/en/home)**, langkah sehari-hari yang dapat dilakukan untuk mengontrol privasi, keamanan, kenyamanan Anda di dunia digital. Versi [bahasa Indonesia](https://datadetoxkit.org/id/home), diterjemahkan oleh [PERIN+1S](https://perintis.or.id). Dibuat oleh [TacticalTech](https://tacticaltech.org) dengan dukungan [Mozilla](https://www.mozilla.org/).  
+* **[Digital Hygiene 101](https://coconet.social/digital-hygiene-safety-security/)**  
 Tips kebersihan digital dari COCONET, juga tersedia dalam [bahasa Indonesia](https://coconet.social/digital-hygiene-safety-security-indonesia)
-
-**[Digital First Aid Kit](https://digitalfirstaid.org/en/index.html)**, panduan jika kamu mengalami gawai hilang atau berperilaku mencurigakan (apakah disadap?), situs web tidak berjalan, kehilangan akses akun, dsb.
-
-**[Digital Safety Manual](https://digitalsafetymanual.org/)** yang dikembangkan oleh [Digital Defenders](https://digitaldefenders.org/).
-
-**[Security in a Box](https://securityinabox.org/en/)**, peralatan dan taktik untuk keamanan digital, juga tersedia dalam [bahasa Indonesia](https://securityinabox.org/id/).
+* **[Digital First Aid Kit](https://digitalfirstaid.org/en/index.html)**, panduan jika kamu mengalami gawai hilang atau berperilaku mencurigakan (apakah disadap?), situs web tidak berjalan, kehilangan akses akun, dsb.
+* **[Digital Safety Manual](https://digitalsafetymanual.org/)** yang dikembangkan oleh [Digital Defenders](https://digitaldefenders.org/).
+* **[Security in a Box](https://securityinabox.org/en/)**, peralatan dan taktik untuk keamanan digital, juga tersedia dalam [bahasa Indonesia](https://securityinabox.org/id/).

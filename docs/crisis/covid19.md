@@ -2,7 +2,6 @@
 layout: default
 title: COVID-19
 permalink: docs/covid19
-has_children: true
 nav_order: 99
 ---
 
@@ -122,11 +121,7 @@ Sumber: [Jakarta Post](https://www.thejakartapost.com/life/2020/03/20/anti-covid
 **[Kumpulan inisiatif anti-COVID-19 oleh Jakarta Post](https://www.thejakartapost.com/life/2020/03/20/anti-covid-19-initiatives-helping-indonesia-fight-the-outbreak.html)**  
 Ada lebih banyak kampanye penggalangan dana (_fundraising_) dan patungan (_crowdfunding_) yang dikumpulkan dan terus diperbarui dalam satu artikel oleh _Jakarta Post_.
 
-# Pranala luar
+# Bacaan lanjutan
 
-**[Kawal COVID-19](https://kawalcovid19.id/)**  
-
-Physical, emotional and digital protection while using home as office in times of COVID-19: Ideas & tips for human right defenders dari **[Front Line Defenders](https://www.frontlinedefenders.org/en/statement-report/physical-emotional-and-digital-protection-while-using-home-office-times-covid-19)**
-
-**[Coronavirus Tech Handbook](https://coronavirustechhandbook.com/contents)**  
-Daftar peralatan, layanan, dan sumber yang berkaitan dengan respons COVID-19 yang dikumpulkan secara sukarela (bahasa Inggris).
+* Physical, emotional and digital protection while using home as office in times of COVID-19: Ideas & tips for human right defenders dari **[Front Line Defenders](https://www.frontlinedefenders.org/en/statement-report/physical-emotional-and-digital-protection-while-using-home-office-times-covid-19)**
+* **[Coronavirus Tech Handbook](https://coronavirustechhandbook.com/contents)**: Daftar peralatan, layanan, dan sumber yang berkaitan dengan respons COVID-19 yang dikumpulkan secara sukarela (bahasa Inggris).
