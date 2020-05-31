@@ -35,7 +35,7 @@ Jika pemagangan dilakukan tanpa melalui perjanjian pemagangan, maka pemagangan t
 
 ### Apakah KKN termasuk magang?
 
-Praktek magang sendiri diwajibkan di perguruan tinggi melalui program [Kuliah Kerja Nyata](https://id.wikipedia.org/wiki/Kuliah_Kerja_Nyata) (KKN). Namun, tak jarang, kampus menormalisasi magang tak berbayar, tanpa kontrak atau jaminan apapun, dengan jangka waktu berbeda-beda. Ada pula yang mengartikan bahwa ketentuan pemagangan yang diatur dalam Undang-undang [tidak mencakup KKN](https://www.hukumonline.com/klinik/detail/ulasan/lt4c6cb635d9527/ketentuan-pemagangan-agar-tak-menyalahi-uu-ketenagakerjaan) dari kampus. Situs LAPOR (Layanan Aspirasi dan Pengaduan Online Rakyat) juga menyebutkan bahwa untuk pemagangan yang dilakukan oleh mahasiswa:
+Praktek magang sendiri diwajibkan di perguruan tinggi melalui program [Kuliah Kerja Nyata](https://id.wikipedia.org/wiki/Kuliah_Kerja_Nyata) (KKN). Namun, tak jarang, kampus melazimi -- bahkan mendorong -- magang tak berbayar, tanpa kontrak atau jaminan apapun, dengan jangka waktu berbeda-beda. Ada pula yang mengartikan bahwa ketentuan pemagangan yang diatur dalam Undang-undang [tidak mencakup KKN](https://www.hukumonline.com/klinik/detail/ulasan/lt4c6cb635d9527/ketentuan-pemagangan-agar-tak-menyalahi-uu-ketenagakerjaan) dari kampus. Situs LAPOR (Layanan Aspirasi dan Pengaduan Online Rakyat) juga menyebutkan bahwa untuk pemagangan yang dilakukan oleh mahasiswa:
 
 > dalam rangka memenuhi persyaratan akademis yang merupakan bagian kurikulum pendidikan, maka mahasiswa yang bersangkutan tidak dapat diklasifikasikan sebagai peserta magang dalam negeri.
 
@@ -43,17 +43,16 @@ Diskusi mengenai magang tidak dibayar ini cukup sering dibahas di luar, dan semp
 
 ## Kerja dibayar _exposure_?
 
-Banyak perusahaan menawarkan orang untuk bekerja gratis, atau dengan upah rendah, dengan alasan _exposure_ atau "menambah portfolio". Ada juga perusahaan yang mengkapitalisasi hubungan pertemanan pekerjanya dengan meminta mereka yang melakukan penawaran harga murah atau bahkan gratis ke kamu, karena tahu kamu lebih sungkan menolak teman.
+Banyak perusahaan menawarkan orang untuk bekerja gratis, atau dengan upah rendah, dengan alasan _exposure_ atau "menambah portfolio". Ada juga perusahaan yang mengkapitalisasi hubungan pertemanan pekerjanya dengan meminta mereka yang melakukan penawaran harga murah atau bahkan gratis ke kamu, karena tahu orang cenderung lebih sungkan menolak tawaran teman.
 
-Coba klik bagan di bawah ini, yang lengkapnya dapat kamu simak di [shouldiworkforfree.com](http://www.shouldiworkforfree.com/) buatan Jessica Hische. Di sebelah kiri atas, kamu bisa klik opsi bahasa Indonesia (meski terjemahannya kadang aneh).
-
-![](https://www.perintis.or.id/wp-content/uploads/2020/05/shouldiworkforfree.png)
+![](https://www.perintis.or.id/wp-content/uploads/2020/05/shouldiworkforfree.png)  
+Sumber: Jessica Hische, [_Should I work for free?_](http://www.shouldiworkforfree.com/
+)"
 
 ## Bacaan lanjutan
 
 * Abi Jam'an Kurnia, S.H., "Jangka Waktu dan Hak-hak Peserta Pemagangan," [_hukumonline.com_](https://www.hukumonline.com/klinik/detail/ulasan/lt50c9bc71e2237/magang/#_ftn6), 15 Maret 2019.
-* Jessica Hische, "[Should I work for free?](http://www.shouldiworkforfree.com/
-)" membuat bagan perihal pertimbangan-pertimbangan yang perlu kita buat jika kita bekerja tanpa dibayar. Jelas bukan hanya untuk _exposure_.
+* Jessica Hische, [**Should I work for free?**](http://www.shouldiworkforfree.com/), membuat bagan perihal pertimbangan-pertimbangan yang perlu kita buat jika kita bekerja tanpa dibayar. Jelas bukan hanya untuk _exposure_.
 * Letezia Tobing, S.H., M.Kn., "Ketentuan Pemagangan Agar Tak Menyalahi UU Ketenagakerjaan," [_hukumonline.com_](https://www.hukumonline.com/klinik/detail/ulasan/lt4c6cb635d9527/ketentuan-pemagangan-agar-tak-menyalahi-uu-ketenagakerjaan), 31 Mei 2017.
 * [**PrecarityPilot**](https://precaritypilot.net/), platform daring dengan lokakarya berpindah yang bertujuan menangani berbagai masalah kerentanan yang dihadapi desainer dengan cara inovatif. Bahasa Inggris.
 * [**Surviving Internships**](https://carrotworkers.wordpress.com/counter-internship-guide/)** oleh Carrotworker's Collective (yang kemudian menjadi [Precarious Workers' Brigade](https://precariousworkersbrigade.tumblr.com) Booklet ini mengeksplorasi dan mempertanyakan beberapa mitos seputar karier di industri kreatif dan menyediakan beberapa alat bertahan hidup bagi mereka yang saat ini bekerja di sektor kreatif. Isi panduan ini didasarkan pada pengalaman kehidupan nyata para pekerja industri budaya dan kreatif di London. Bahasa Inggris.
