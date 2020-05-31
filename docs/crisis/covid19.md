@@ -34,7 +34,7 @@ Sebisa mungkin, jaga pola jam kerja dan istirahat, serta pola makan minum yang s
 Jika kamu beruntung mempunyai kemampuan atau pemasukan lebih, mari [bantu sesama](#bantu-sesama) melalui donasi atau inisiatif lainnya. Jika Anda tidak dapat membantu mereka secara fisik, saling cek kondisi dan berkabar, apalagi jika kondisi temanmu terisolasi. Beri bantuan atau tips lebih untuk mereka yang rentan, pekerja-pekerja garda depan yang sangat terpapar resiko seperti kurir, sopir ojol, tenaga medis, transpuan, dsb. Membantu sesama juga membantu membuat krisis ini lebih cepat berakhir.
 
 **Bagi tanggungjawab rumah tangga & mengasuh**  
-Seringkali, tugas-tugas rumah tangga dan mengasuh anak maupun orang dewasa dibebankan sepenuhnya ke perempuan dengan tidak adil. Padahal, pekerjaan mengasuh dan pekerjaan rumah tangga seperti memasak, mencuci, bebersih, mengajari anak, bukanlah tanggungjawab perempuan saja. Sebisa mungkin, bicarakan, negosiasikan, dan bagi tugas tersebut dengan orang lain di rumah.
+Seringkali, tugas-tugas rumah tangga dan mengasuh anak maupun orang dewasa dibebankan sepenuhnya ke perempuan dengan tidak adil. Padahal, pekerjaan mengasuh dan pekerjaan rumah tangga seperti memasak, mencuci, bebersih, mengajari anak, bukanlah tanggungjawab perempuan saja. Bicarakan, negosiasikan, dan bagi tugas tersebut dengan orang lain di rumah.
 
 **Batasi paparan berita**  
 Batasi paparan terhadap berita COVID-19 dengan menetapkan waktu dan durasi tertentu dalam sehari untuk menyimak berbagai berita di TV, internet, medsos, WhatsApp group, koran, dsb. Cobalah untuk tidak menonton/membaca berita atau chat di malam hari ketika Anda mempersiapkan tubuh dan pikiran Anda untuk tidur.
@@ -90,7 +90,17 @@ Kumpulan berbagai peluang seperti lowongan kerja, peluang pendanaan (_funding_),
 # Bantu sesama
 
 **[Peduli Kawan Transpuan Surabaya](https://www.instagram.com/p/CANykCIAwUT/)**  
-Inisiatif yang digalang oleh Eva &amp; Anin melalui Perwakos untuk membantu kawan-kawan transpuan di Surabaya, yang sangat terdampak pandemi dan luput dari bantuan maupun perhatian. Donasi dapat disalurkan ke rekening BCA 777 1129 157 A/N Eva Bachtiar, konfirmasi transfer melalui WhatsApp ke Anin di 0896 7567 9568.   Sumber: Instagram @indonesiafeminis.
+Inisiatif yang digalang oleh Eva &amp; Anin melalui Perwakos untuk membantu kawan-kawan transpuan di Surabaya, yang sangat terdampak pandemi dan luput dari bantuan maupun perhatian. Donasi dapat disalurkan ke rekening BCA 777 1129 157 A/N Eva Bachtiar, konfirmasi transfer melalui WhatsApp ke Anin di 0896 7567 9568. Sumber: Instagram @indonesiafeminis.
+
+**[Bantu Buruh Perempuan](https://sharinghappiness.org/donate/bantuburuhperempuan)**  
+Inisiatif yang digalang oleh Front Nahdliyyin untuk Kedaulatan Sumber Daya Alam (FNKSDA), organisasi akar rumput yang selama ini menyuarakan isu-isu keumatan, bekerjasama dengan FBLP dan Forum Islam Progresif (FIP), akan menyalurkan bantuan kepada 400 keluarga buruh yang tengah berjuang di tengah pendemik dalam kondisi serba kesulitan tersebut dengan menyalurkan paket bantuan bahan pokok senilai Rp 500.000.
+
+Bantuan dapat disalurkan melalui:  
+* Jenius/BTPN 90220035909 an Marliana Eka Fauzia (Biro Ekonomi Komite Nasional FNKSDA)
+* OVO Pay di nomor 082143087369
+* Platform [Sharing Happiness](https://sharinghappiness.org/bantuburuhperempuan) (menerima berbagai bank transfer)
+
+Sumber: Laporan penyaluran di [situs web FNKSDA](https://fnksda.or.id/laporan-tahap-ii-berkah-ramadhan-untuk-keluarga-buruh-perempuan-terdampak-covid-19/). 
 
 **[Instagram: @Solidaritas.Yogyakarta](https://www.instagram.com/solidaritas.yogyakarta/)**  
 Dapur kolektif untuk menanggulangi krisis pangan bagi pekerja informal di Yogyakarta. Solidaritas Pangan Jogja muncul dari inisiatif masyarakat di Jogja yang terdiri dari pekerja seni, mahasiswa, aktivis, hingga warga umum. Hingga saat ini sudah ada 12 dapur kolektif, yang dioperasikan dengan dana hasil donasi masyarakat. Bagi yang ingin berdonasi, bisa ditransfer ke:

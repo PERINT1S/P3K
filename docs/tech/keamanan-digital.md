@@ -54,7 +54,7 @@ Last updated: 23 Mei 2020
 * Secara berkala, **pindahkan atau hapus data**, khususnya yang sensitif dari ponsel. Jika masih diperlukan, simpan di luar ponsel di tempat yang aman dan terenkripsi
 * Hapus aplikasi-aplikasi yang tidak kamu perlukan
 * Untuk yang banyak berhadapan dengan data sensitif di lapangan seperti aktifis, jurnalis, di Android ada aplikasi seperti [Tella](https://wearehorizontal.org/tella/) untuk dokumentasi sensitif yang dapat disamarkan atau dihapus seketika.
-* Bisa juga aktifkan Find My Device ([Android](https://support.google.com/accounts/answer/6160491?hl=id) & [Apple iCloud](https://support.apple.com/id-id/HT205362/)) dan _remote device wipe_ (menghapus atau lacak HPmu jika hilang/dicuri/disita). Namun sadari juga resikonya: (1) jika seseorang berhasil mendapat akses ke Google/Apple IDmu, jadi pastikan akun tersebut aman! (2) Jika HPmu disita aparat sebagai barang bukti, _remote device wipe_ mungkin tidak dapat sembarang dilakukan (malah membuat curiga ketika perangkatmu kosong).
+* Bisa juga aktifkan Find My Device ([Android](https://support.google.com/accounts/answer/6160491?hl=id) & [Apple iCloud](https://support.apple.com/id-id/HT205362/)) dan _remote device wipe_ (menghapus atau lacak HPmu jika hilang/dicuri/disita). Namun sadari juga resikonya: (1) jika seseorang berhasil mendapat akses ke Google/Apple IDmu, jadi pastikan akun tersebut aman! (2) Jika HPmu disita aparat sebagai barang bukti, _remote device wipe_ mungkin tidak dapat sembarang dilakukan.
 
 # Desktop/laptop
 

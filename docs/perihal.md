@@ -17,7 +17,7 @@ nav_exclude: true
 
 ## Apa itu P3K?
 
-P3K dalam laman ini merupakan singkatan dari Pertlongan Pertama Pada Kreativitas. Terinspirasi dari kotak P3K Pertolongan Pertama Pada Kecelakaan, P3Kreativitas ini adalah seperangkat alat atau _toolkit_ untuk membantu kita  mengarungi berbagai tantangan bekerja di industri kreatif. 
+P3K dalam laman ini merupakan singkatan dari Pertlongan Pertama Pada Kreativitas. Terinspirasi dari kotak P3K Pertolongan Pertama Pada Kecelakaan, P3Kreativitas ini adalah seperangkat alat atau _toolkit_ untuk membantu kita  mengarungi berbagai tantangan bekerja di industri kreatif.
 
 Perangkat P3K di sini mencakup:  
 1. website ini, yang juga merupakan platform online P3K
@@ -54,8 +54,9 @@ Buku "LKS" dalam bahasa Inggris dengan berbagai bahan dan kerangka kerja untuk m
 
 P3K adalah projek yang dikerjakan oleh [PERIN+1S](https://perintis.or.id) bekerjasama dengan [Domestic Science](https://domesticscience.org.uk/) (Liverpool, UK) dan [SINDIKASI](http://sindikasi.org/). Didukung oleh program [DICE](https://www.britishcouncil.org/programmes/dice/fund) (Developing Inclusive Creative Economies) dari British Council.
 
-* Tim PERIN+1S: Andriew Budiman, Daniela Soplantila, Galuh Prakasyta, kat, Mikael Edo Imantaka, Nadia Maya Ardiani, Nita Darsono  
-* Tim Re:Dock: Hwa Young Jung, Ross Dalziel  
+* Tim PERIN+1S: Andriew Budiman, Daniela Soplantila, Galuh Prakasyta, kat, Mikael Edo Imantaka, Nadia Maya Ardiani, Nita Darsono
+* Tim Re:Dock: Hwa Young Jung, Ross Dalziel
+* Tim SINDIKASI: Ellena Ekarahendy
 * British Council: Viandira Athia
 
 Dan banyak lagi teman-teman yang tidak dapat kami sebutkan satu-satu.

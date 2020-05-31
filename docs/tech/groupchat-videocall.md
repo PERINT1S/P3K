@@ -11,7 +11,7 @@ nav_order: 3
 Bekerja jarak jauh (_remote work_)—tanpa pernah bertatap muka dengan kolega ataupun pemberi kerja—adalah fenomena yang banyak terjadi di industri kreatif, media, dan digital. Pandemi COVID-19 tak ayal memaksa banyak individu dan organisasi untuk bekerja dari jarak jauh. Menimbulkan banyak pertanyaan: Alat komunikasi mana yang paling baik, aman, dan terjangkau? Mana yang cocok untuk mengadakan rapat isu sensitif, mana yang untuk sesi santai dengan teman? Mana yang cocok untuk melakukan presentasi, kuliah, atau lokakarya? Bagaimana kita memastikan mereka dengan keterbatasan akses internet tetap dapat terlibat?
 {: .fs-6 .fw-300 }
 
-Last updated: 28 Mei 2020
+Last updated: 31 Mei 2020
 {: .text-mono .text-small}
 
 ## Daftar isi
@@ -30,15 +30,15 @@ Last updated: 28 Mei 2020
 
 ## Inklusif
 
-Sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, tanyakan pada diri sendiri dan peserta, perlukah pembahasan ini dilakukan secara _live_ dengan semua peserta melalui _video/audio call_? Pertimbangkan, **siapa yang bisa ikut dan tidak bisa ikut** jika kita menggunakan _video call_? Bagaimana dengan mereka yang internetnya terbatas? Tanyakan sebelum mengajak _meeting_, cara mana yang bisa melibatkan semua? Bisakah pembahasan dilakukan menggunakan cara lain seperti text chat, email, atau forum lainnya?
+Sebelum memutuskan untuk menggelar rapat, kelas, atau pelatihan, tanyakan pada diri sendiri dan peserta, **perlukah pembahasan ini dilakukan melalui _video/audio call_**? Pertimbangkan, **siapa yang bisa ikut dan tidak bisa ikut** jika kita menggunakan _video call_? Bagaimana dengan mereka yang internetnya terbatas? Tanyakan sebelum mengajak _meeting_, cara mana yang bisa melibatkan semua? Bisakah pembahasan dilakukan menggunakan cara lain seperti text chat, email, atau forum lainnya?
 
 ### Pertimbangkan akses internet
 
-Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Pertimbangkan cara-cara komunikasi yang menghemat _bandwith_ jika peserta memiliki akses internet terbatas. Apalagi di saat krisis dan banyak orang mengalami kesulitan ekonomi, harus berhemat membeli pulsa atau paket data. Evaluasi juga, seberapa efektif sih _meeting_ melalui video call? Karena tak jarang selesai kita rapat online yang bisa habis data 1GB++, sebetulnya kita berpikir, "Kalau cuma gini doang, kenapa ngga chat/email/update di kalender aja?"
+Ingat bahwa akses internet sangat tidak merata dan tidak terjangkau untuk banyak orang. Pertimbangkan cara-cara komunikasi yang menghemat _bandwith_ jika peserta memiliki akses internet terbatas. Apalagi di saat krisis dan banyak orang mengalami kesulitan ekonomi, harus berhemat membeli pulsa atau paket data. Evaluasi juga, seberapa efektif sih _meeting_ melalui video call? Karena tak jarang selesai kita rapat online yang bisa menguras 1GB++, sebetulnya kita berpikir, "Kalau cuma gini doang, kenapa ngga chat/email/update di kalender aja?"
 
-### Kirimkan agenda dan materi referensi
+### Kirimkan agenda & materi sebelumnya
 
-Kirimkan agenda dan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta pelajari dulu. Kalau perlu sebelum mulai _meeting_, beri peserta waktu 5-15 menit dulu untuk membaca agenda dan materi yang telah dikirimkan. Apalagi jika kamu mau mengajarkan sesuatu. Dengan mengirimkan agenda dan materi sebelumnya, peserta tidak perlu _standby_ sepanjang _meeting_, bisa _replay_ video/audio atau membaca ulang materi sesuai waktu mereka. Lebih hemat _bandwith_ dan kecil juga kemungkinan mengalami koneksi putus-putus dan kesulitan menyimak, belum lagi habis data dan uang untuk membayar pulsa. Momen pertemuan online bisa lebih efektif digunakan untuk membahas hal-hal yang belum dimengerti dan perlu didiskusikan.
+Kirimkan agenda dan materi berupa teks bacaan, atau rekaman video/audio/layar, untuk peserta pelajari dulu. Kalau perlu sebelum mulai _meeting_, beri peserta waktu 5-15 menit dulu untuk membaca agenda dan materi yang telah dikirimkan. Apalagi jika kamu mau mengajarkan sesuatu. Dengan mengirimkan agenda dan materi sebelumnya, peserta tidak perlu _standby_ sepanjang _meeting_, juga bisa _replay_ video/audio atau membaca ulang materi. Ini mengurangi kemungkinan  koneksi putus-putus dan kesulitan menyimak, belum lagi habis data dan uang untuk membayar pulsa. Momen pertemuan online bisa lebih efektif digunakan untuk membahas hal-hal yang belum dimengerti dan perlu didiskusikan.
 
 ### Jam (re)produktif & kesehatan mental
 
@@ -56,7 +56,7 @@ Baca lebih jauh mengenai alur kerja dan komunikasi _asynchronous_ di [Gitlab](ht
 
 Secara umum, kami tidak terlalu merekomendasikan alat-alat yang tidak menggunakan teknologi [_open source_](https://en.wikipedia.org/wiki/Open_source), atau _proprietary_ seperti Microsoft, Google, Facebook, WhatsApp, Zoom, dsb. Selain riwayat panjang mereka dalam menyalahgunakan informasi pribadi pengguna, _source code_ mereka tidak dapat dilihat atau diaudit oleh publik.
 
-Namun kita juga sadar bahwa tidak semua orang dapat menggunakan _open source_,  dan akses terhadap berbagai modal seperti server, akses internet, informasi, dsb, penggunaan alat seadanya sulit dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_. Dalam panduan ini, perangkat _open source_ kami warnai hijau (meski beberapa hanya _client side_), dan yang _proprietary_ diwarnai merah.
+Namun kami juga sadar bahwa tidak semua orang dapat menggunakan _open source_,  dan akses terhadap berbagai modal seperti server, akses internet, informasi, dsb, penggunaan alat seadanya sulit dihindari. Begitu pula, makin banyak perusahaan komersial mulai menjual perangkat _open source_.
 
 Lebih lanjut mengenai keamanan dan privasi aplikasi-aplikasi ini dapat disimak di bacaan-bacaan di bawah ini:
 
