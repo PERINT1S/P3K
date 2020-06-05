@@ -74,7 +74,7 @@ Padahal kita tahu sendiri penerima kerja seringkali tidak memiliki daya tawar ya
 
 ### Jawa Timur: Pengusaha dilarang menahan ijazah
 
-Khusus daerah provinsi Jawa Timur, telah ada peraturan **melarang praktek penahanan ijazah**. Dalam pasal 42 Peraturan Daerah Jawa Timur No. 8/2016 tentang Penyelenggaraan Ketenagakerjaan disebutkan:
+Khusus daerah provinsi Jawa Timur, telah ada peraturan **melarang praktek penahanan ijazah**. Dalam pasal 42 Peraturan Daerah Jawa Timur [No. 8/2016](https://peraturan.bpk.go.id/Home/Details/25613) tentang Penyelenggaraan Ketenagakerjaan disebutkan:
 
 > Pengusaha dilarang menahan atau menyimpan dokumen asli yang sifatnya melekat pada pekerja sebagai jaminan.
 
