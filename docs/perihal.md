@@ -24,7 +24,7 @@ Perangkat P3K di sini mencakup:
 1. permainan interaktif berupa kartu pemancing pembicaraan (_conversation starter card deck_) untuk membantumu mempertanyakan dan mengkritisi kondisimu serta teman-rekan kerjamu.
 1. buku saku (versi _offline_ buku ini dalam bentuk PDF yang dapat kamu cetak mandiri)
 
-[Unduh kartu permainan](https://www.perintis.or.id/wp-content/uploads/2020/08/kartuP3K_20200623.pdf){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Unduh kartu permainan](https://www.perintis.or.id/wp-content/uploads/2020/08/kartuP3K_20200623.pdf){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unduh PDF buku](https://www.perintis.or.id/wp-content/uploads/2020/08/P3K-booklet_20200809.pdf){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Kenapa membuat P3K?
 
