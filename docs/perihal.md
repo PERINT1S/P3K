@@ -17,14 +17,14 @@ nav_order: 99
 
 ## Apa itu P3K?
 
-P3K dalam laman ini merupakan singkatan dari Pertlongan Pertama Pada Kreativitas. Terinspirasi dari kotak P3K Pertolongan Pertama Pada Kecelakaan, P3Kreativitas ini adalah seperangkat alat atau _toolkit_ untuk membantu kita  mengarungi berbagai tantangan bekerja di industri kreatif.
+P3K dalam laman ini merupakan singkatan dari Pertolongan Pertama Pada Kreativitas. Terinspirasi dari kotak P3K Pertolongan Pertama Pada Kecelakaan, P3Kreativitas ini adalah seperangkat alat atau _toolkit_ untuk membantu kita  mengarungi berbagai tantangan bekerja di industri kreatif.
 
 Perangkat P3K di sini mencakup:  
 1. website ini, yang juga merupakan platform online P3K
 1. permainan interaktif berupa kartu pemancing pembicaraan (_conversation starter card deck_) untuk membantumu mempertanyakan dan mengkritisi kondisimu serta teman-rekan kerjamu.
 1. buku saku (versi _offline_ buku ini dalam bentuk PDF yang dapat kamu cetak mandiri)
 
-[Unduh kartu permainan](#){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 } [Unduh PDF buku saku](#){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Unduh kartu permainan](https://www.perintis.or.id/wp-content/uploads/2020/08/kartuP3K_20200623.pdf){: .btn .btn-red .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Kenapa membuat P3K?
 
@@ -43,12 +43,6 @@ P3K karenanya berupaya menyediakan panduan dasar bagi mereka yang tertarik berke
 * [Precarity Pilot](https://precaritypilot.net/), platform daring dengan lokakarya berpindah yang bertujuan menangani berbagai masalah kerentanan yang dihadapi desainer dengan cara inovatif. Bahasa Inggris.
 * [Training for Exploitation](https://precariousworkersbrigade.tumblr.com/TrainingForExploitation), Precarious Workers' Brigade  
 Buku "LKS" dalam bahasa Inggris dengan berbagai bahan dan kerangka kerja untuk membuat kita mempertanyakan dan membongkar narasi dominan seputar ketenagakerjaan dan tenaga kerja "terampil", khususnya di industri kreatif, media, seni dan budaya. Ada alat untuk memeriksa secara kritis hubungan antara pendidikan, pekerjaan dan ekonomi budaya. Ini menyediakan statistik yang berguna dan latihan lokakarya tentang topik-topik seperti hak-hak kerja, kerjasama dan solidaritas, serta contoh-contoh praktik pendidikan dan pengorganisasian alternatif. Dengan kata pembuka dari Silvia Federici. Bahasa Inggris.
-
-## Metodologi
-
-
-
-
 
 ## Siapa yang membuat?
 
