@@ -35,11 +35,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "English version":
+  "":
     - ""
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "P3K dikerjakan oleh <a href=\"https://perintis.or.id\"> PERIN+1S</a> bekerjasama dengan <a href=\"https://domesticscience.org.uk\">Domestic Science</a> (Liverpool, UK) dan <a href=\"https://sindikasi.org\">SINDIKASI</a>. Didukung program <a href=\"https://www.britishcouncil.org/programmes/dice/fund\">DICE</a> (Developing Inclusive Creative Economies) dari British Council. Dibuat dengan lisensi Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">BY-NC-SA 4.0</a>. Web menggunakan <a href=\"https://jekyllrb.com/\">Jekyll</a>, layout dimodifikasi dengan <a href=\"https://atom.io\">Atom</a> dari <a href=\"https://pmarsceill.github.io/just-the-docs/\">Just the Docs</a> &copy; 2017-2019 oleh <a href=\"http://patrickmarsceill.com\">Patrick Marsceill</a>, didistribusikan dengan <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license</a>."
+footer_content: "P3K dikerjakan oleh <a href=\"https://perintis.or.id\"> PERIN+1S</a> bekerjasama dengan <a href=\"https://domesticscience.org.uk\">Domestic Science</a> (Liverpool, UK) dan <a href=\"https://sindikasi.org\">SINDIKASI</a>. Didukung program <a href=\"https://www.britishcouncil.org/programmes/dice/fund\">DICE</a> (Developing Inclusive Creative Economies) dari <a href=\"https://www.britishcouncil.id/en/programmes/arts\">British Council</a>. Dibuat dengan lisensi Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">BY-NC-SA 4.0</a>. Web menggunakan <a href=\"https://jekyllrb.com/\">Jekyll</a>, layout dimodifikasi dengan <a href=\"https://atom.io\">Atom</a> dari <a href=\"https://pmarsceill.github.io/just-the-docs/\">Just the Docs</a> &copy; 2017-2019 oleh <a href=\"http://patrickmarsceill.com\">Patrick Marsceill</a>, didistribusikan dengan <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license</a>."
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
