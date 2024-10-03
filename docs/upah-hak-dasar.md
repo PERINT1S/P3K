@@ -74,7 +74,7 @@ Padahal kita tahu sendiri penerima kerja seringkali tidak memiliki daya tawar ya
 
 ### Jawa Timur: Pengusaha dilarang menahan ijazah
 
-> Berdasarkan [Perda Jawa Timur no. 8 tahun 2016 tentang penyelenggaraan ketenagakerjaan, ada larangan bagi pengusaha menyimpan atau menahan dokumen asli yang sifatnya melekat pada pekerja sebagai jaminan (pasal 42)](https://peraturan.bpk.go.id/Details/25613). Dalam Penjelasannya dijelaskan bahwa “Dokumen asli yang dimaksud adalah Kartu Tanda Penduduk (KTP), Surat Izin Mengemudi (SIM), akte kelahiran, kartu keluarga, paspor, ijazah dan sertifikat”. Perda tersebut juga mengatur sanksi bagi pengusaha atau pemberi kerja yang melakukan penahanan ijazah, yakni:
+Berdasarkan [Perda Jawa Timur no. 8 tahun 2016 tentang penyelenggaraan ketenagakerjaan, ada larangan bagi pengusaha menyimpan atau menahan dokumen asli yang sifatnya melekat pada pekerja sebagai jaminan (pasal 42)](https://peraturan.bpk.go.id/Details/25613). Dalam Penjelasannya dijelaskan bahwa “Dokumen asli yang dimaksud adalah Kartu Tanda Penduduk (KTP), Surat Izin Mengemudi (SIM), akte kelahiran, kartu keluarga, paspor, ijazah dan sertifikat”. Perda tersebut juga mengatur sanksi bagi pengusaha atau pemberi kerja yang melakukan penahanan ijazah, yakni:
 
 > pidana kurungan paling lama 6 (enam) bulan atau denda paling banyak Rp 50.000.000,00 (lima puluh juta rupiah).
 
